@@ -1,0 +1,1254 @@
+﻿{
+    "Items": [
+        {
+            "id": 0,
+            "nom": "Rick y Morty",
+            "teCapitols": true,
+            "data": "2013-12-02",
+            "actors": "Justin Roiland,Chris Parnell,Spencer Grammer",
+            "directors": "J. Michael Mendel, Kenny Micka",
+            "imatgeGran": "0_big.jpg",
+            "imatgeMiniatura": "0_small.jpg",
+            "productor": "J. Michael Mendel, Kenny Micka",
+            "sinopsi": "Rick, un científico alcohólico, secuestra a su influenciable nieto, Morty, para vivir peligrosas aventuras a través de nuestro cosmos y universos paralelos.",
+            "valoracio": 8.4,
+            "categories": "Tv de ciencia ficción, Sitcoms, Comedias TV, Series TV de EE UU, TV de acción y aventuras",
+            "undefined": " "
+        },
+        {
+            "id": 1,
+            "nom": "Black Mirror",
+            "teCapitols": true,
+            "data": "2018-12-28",
+            "actors": "Bryce Dallas Howard, Daniel Kaluuya, Jon Hamm",
+            "directors": "Otto Bathurst, Euros Lyn, Owen Harris, Carl Tibbetts, Bryn Higgins",
+            "imatgeGran": "black_mirror_gran.jpg",
+            "imatgeMiniatura": "black_mirror_petita.jpg",
+            "productor": "Charlie Brooker,Annabel Jones,Barney Reisz",
+            "sinopsi": "Esta serie de ciencia ficción explora un futuro próximo muy inquietante, donde las grandes innovaciones tecnológicas de la raza humana chocan con sus peores instintos.",
+            "valoracio": 8.3,
+            "categories": "Science fiction,Satire,Psychological thriller,Dystopia,Anthology",
+            "undefined": " "
+        },
+        {
+            "id": 2,
+            "nom": "A Clockwork Orange",
+            "teCapitols": false,
+            "data": "1972-01-13",
+            "actors": "Malcolm McDowell, Patrick Magee, Adrienne Corri, Miriam Karlin",
+            "directors": "Stanley Kubrick",
+            "imatgeGran": "clockwork_orange_big",
+            "imatgeMiniatura": "clockwork_orange_small",
+            "productor": "Stanley Kubrick",
+            "sinopsi": "Alex (Malcolm McDowell), the central character, is a charismatic, antisocial delinquent whose interests include classical music (especially Beethoven), committing rape, theft and what is termed \"ultra-violence\". He leads a small gang of thugs, Pete (Michael Tarn), Georgie (James Marcus), and Dim (Warren Clarke), whom he calls his droogs (from the Russian word друг, \"friend\", \"buddy\"). The film chronicles the horrific crime spree of his gang, his capture, and attempted rehabilitation via an experimental psychological conditioning technique (the \"Ludovico Technique\") promoted by the Minister of the Interior (Anthony Sharp). Alex narrates most of the film in Nadsat, a fractured adolescent slang composed of Slavic (especially Russian), English, and Cockney rhyming slang.",
+            "valoracio": 8.3,
+            "categories": "Sci-fi,Drama,Mysteri,Police",
+            "undefined": " "
+        },
+        {
+            "id": 3,
+            "nom": "Space jam ",
+            "teCapitols": false,
+            "data": "1997-02-03",
+            "actors": "Michael Jordan,Bill Murray,Wayne Knight, Theresa Randle ",
+            "directors": "Joe Pytka",
+            "imatgeGran": "space_jam_gran.jpg",
+            "imatgeMiniatura": "space_jam_petita.jpg",
+            "productor": "Ivan Reitman,Joe Medjuck,Daniel Goldberg",
+            "sinopsi": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.",
+            "valoracio": 6.4,
+            "categories": "Sci-fi",
+            "undefined": " "
+        },
+        {
+            "id": 4,
+            "nom": "The Purge",
+            "teCapitols": false,
+            "data": "2013-06-12",
+            "actors": "Ethan Hawke,Lena Headey,Max Burkholder,Adelaide Kane,Edwin Hodge",
+            "directors": "James DeMonaco",
+            "imatgeGran": "the_purge_gran.jpg",
+            "imatgeMiniatura": "the_purge_petita.jpg",
+            "productor": "Michael Bay,Jason Blum,Andrew Form,Bradley Fuller,Sébastien Kurt Lemercier",
+            "sinopsi": "In October 1988, Bill Denbrough crafts a paper sailboat for Georgie, his six-year-old brother.",
+            "valoracio": 5.7,
+            "categories": "Thriller,Terror",
+            "undefined": " "
+        },
+        {
+            "id": 5,
+            "nom": "IT",
+            "teCapitols": false,
+            "data": "2017-08-08",
+            "actors": "Bill Skarsgård, Jaeden Lieberher",
+            "directors": "Andres Muschietti",
+            "imatgeGran": "IT720300.jpg",
+            "imatgeMiniatura": "IT20084.jpg",
+            "productor": "Seth Grahame-Smith",
+            "sinopsi": "In October 1988, Bill Denbrough crafts a paper sailboat for Georgie, his six-year-old brother. Georgie sails the boat along the rainy streets of small town Derry, Maine, only to have it fall down a storm drain. As he attempts to retrieve it, Georgie sees a clown in the drain, who introduces himself as \"Pennywise the Dancing Clown\". Pennywise entices Georgie to come closer, then bites his arm off and drags him into the sewer. The following summer, Bill and his friends Richie Tozier, Eddie Kaspbrak, and Stan Uris run afoul of older bully Henry Bowers and his gang. Bill, still haunted by Georgie's disappearance, calculates that his brother's body may have washed up in a marshy wasteland called the Barrens. He recruits his friends to investigate, believing Georgie may still be alive. Ben Hanscom, one of Bill's new classmates, learns that the town has been plagued by unexplained tragedies and child disappearances for centuries. Targeted by Bowers' gang, Ben flees into the Barrens and meets Bill's group. They find the sneaker of a missing girl named Betty Ripsom, while a member of the Bowers Gang, Patrick Hockstetter, is killed by Pennywise while searching the sewers for Ben.\r\n\r\nBeverly Marsh, a girl bullied over rumors of promiscuity, also joins the group; both Bill and Ben develop feelings for her. Later, the group befriends orphan Mike Hanlon after defending him from Bowers. Each member of the group has encountered terrifying manifestations of the same menacing clown who attacked Georgie: a headless undead boy, a sink that spews blood only children can see, a diseased and rotting leper, a disturbing painting come to life, Mike's parents burning alive, and a frightening phantom of Georgie. Now calling themselves \"The Losers Club\", they realize they are all being stalked by the same entity, which they refer to as \"It\". They determine that It assumes the appearance of what they fear most, awakening every 27 years to feed on the children of Derry before returning to hibernation, and moves about by using the sewer lines, which all lead to an old stone well hidden under an abandoned house. After another attack by Pennywise, the group ventures to the house to confront It, only to be separated and terrorized. As Pennywise gloats to Bill about Georgie, the Losers regroup and Beverly impales Pennywise through the head, forcing the clown to retreat. The group flees the house and begins to splinter, with only Bill and Beverly resolute in fighting It.\r\n\r\nWeeks later, after Beverly confronts and incapacitates her sexually abusive father, she is abducted by Pennywise. The Losers Club reassembles and travels back to the abandoned house to rescue her. Bowers, who has murdered his abusive father after being driven insane by It, attacks the group; Mike fights back and pushes Bowers down the well to his apparent death. The Losers descend into the sewers and find It's underground lair, which contains a mountain of decayed circus props and children's belongings, around which the bodies of It's child victims float in mid-air. Beverly, now catatonic after being exposed to bright lights inside It's gaping mouth, is restored to consciousness when Ben kisses her. Bill encounters Georgie, but recognizes that he is It in disguise. As Pennywise, It takes Bill hostage, offering to spare the others and go into hibernation if they let It feed on Bill. The Losers reject this, battling with It while overcoming their various fears. It is eventually defeated and retreats deeper into the sewers, with Bill declaring that It will starve during its hibernation. Finding the remnants of Georgie's raincoat, Bill finally comes to terms with his brother's death and is comforted by his friends.\r\n\r\nAs summer ends, Beverly informs the group of a vision she had while catatonic, where she saw them fighting It again as adults. The Losers swear a blood oath that they will return to Derry as adults if It returns. After the others make their goodbyes and disperse, Beverly and Bill discuss her leaving the next day to live with her aunt in Portland. Before she leaves, Bill reveals his feelings and they kiss.",
+            "valoracio": 6.7,
+            "categories": "Terror",
+            "undefined": " "
+        },
+        {
+            "id": 6,
+            "nom": "Planet Terror",
+            "teCapitols": false,
+            "data": "2007-04-06",
+            "actors": "Rose McGowan, Freddy Rodriguez, Michael Biehn, Jeff Fahey, Josh Brolin, Marley Shelton, Stacy Ferguson, Bruce Willis",
+            "directors": "Robert Rodriguez",
+            "imatgeGran": "PT720300.jpg",
+            "imatgeMiniatura": "PT20084.jpg",
+            "productor": "Robert Rodríguez, Quentin Tarantino, Elizabeth Avellán",
+            "sinopsi": "In rural Texas, go-go dancer Cherry Darling, resigning from her low-paying job, runs into her mysterious ex-boyfriend El Wray at the Bone Shack, a restaurant owned by brothers J.T. and Sheriff Hague. Meanwhile, the demented Lt. Muldoon and his men are making a transaction with chemical engineer Abby for mass quantities of DC2 (codename \"Project Terror\"), a deadly biochemical agent. When Muldoon learns that Abby has an extra supply, he attempts to take Abby hostage. The latter intentionally releases the gas into the air, mutating most of the town's residents into deformed zombies. The infected townspeople are treated by the sinister Dr. William Block and his unhappy, unfaithful wife, Dakota, at a local hospital.\r\n\r\nRandom attacks begin along the highway, causing El Wray, with Cherry, to crash his truck. In the aftermath, several zombies tear off Cherry's right leg. At the hospital is another victim, Tammy, the former lover of Dakota (whose car had broken down earlier, leading to her getting attacked by zombies on the road). Block recognizes her and compares text messages on Tammy's and his wife's phones, realizing Dakota was about to leave him. He then stabs Dakota's hands with her anesthetic syringe needles repeatedly, rendering them useless, before locking her in a closet to tend to other patients, including Cherry, who is still alive.\r\n\r\nEl Wray is detained by Sheriff Hague based on past encounters between the two. As the patients mutate, El Wray leaves the station and arrives at the hospital, attaching a wooden table leg to Cherry's stump. As El Wray and Cherry fight their way out of the zombie-infested hospital, Dakota escapes in her car, despite accidentally breaking her left wrist as her hands are still numb. Meanwhile, Block becomes infected along with others, while Cherry and El Wray take refuge at the Bone Shack.\r\n\r\nDakota retrieves her son Tony and takes him to her father, Texas Ranger Earl McGraw. Tony, given a revolver by his mother, accidentally shoots himself in the face after being told not to point it at himself. Cherry and El Wray make love in J.T.'s bedroom. Due to a \"missing reel\", what happens after this is unknown; when the film returns, Sheriff Hague has been shot in the neck by one of his officers, zombies are massing outside the burning Bone Shack and El Wray's true identity is implied by Hague. Dakota, Earl, Cherry's former boss Skip, and Tony's crazed babysitter twins arrive at the Bone Shack. With Hague badly injured, the group decides to flee to the Mexican border, before being stopped by a large mass of zombies. Muldoon's men arrive, killing the zombies before arresting the group. Abby tells them that the soldiers are stealing the gas supply because they are infected, constant inhalation of the gas delays mutation. They also learn that a small percentage of the population is immune, suggesting a possible treatment, which is why Muldoon quarantined the survivors.\r\n\r\nAs Cherry and Dakota are taken away by two soldiers, the others defeat the security guards. J.T. sustains a gunshot wound in the process while the group searches for Muldoon. Discovered by El Wray and Abby, Muldoon explains that he killed Osama bin Laden before he and his men were infected and were ordered to protect the area. El Wray offers a respectful recognition of Muldoon's military service before he and Abby shoot the mutating Muldoon.\r\n\r\nMeanwhile, Cherry is forced to dance by the first soldier held at gunpoint. Eventually, she breaks her wooden leg across his face and stabs him in his eye with it. Dakota, after realizing her hands have regained feeling, quick-draws her syringe launcher and stuns the second soldier. El Wray and Abby arrive to rescue Cherry and Dakota, and El Wray replaces Cherry's broken wooden leg with a modified M4 Carbine with an M203. She promptly kills the first soldier and several zombies with it.\r\n\r\nJ.T., wounded and lying beside his dying brother, stays behind to detonate explosives to eliminate the remaining zombies while the others flee. The survivors make plans to escape by stealing helicopters but must fight past the remaining zombies. Abby dies, along with hope for a cure, when a ballistic projectile blows his head up. The survivors use the blade tips of their helicopter to kill the rest of the zombies. However, while saving Cherry from a zombie, El Wray is fatally wounded. In the epilogue, Cherry, now sporting a minigun leg, leads the group and many more survivors to the Caribbean beach at Tulum, where they start a peaceful new society during a world-wide zombie outbreak. It is also revealed that Cherry has given birth to El Wray's daughter (alluded to earlier during El Wray's final scene when he puts his hand on her stomach and restates his motto \"Two against the world\").\r\n\r\nIn a post-credits scene, Tony is sitting on the beach at the survivor's \"base\" playing with his turtle, scorpion and tarantula.",
+            "valoracio": 6.4,
+            "categories": "Acció, Comèdia",
+            "undefined": " "
+        },
+        {
+            "id": 7,
+            "nom": "The Big Bang Theory",
+            "teCapitols": true,
+            "data": "2007-08-24",
+            "actors": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Mayim Bialik, Melissa Rauch",
+            "directors": "Mark Cendrowski",
+            "imatgeGran": "TBBT720300.jpg",
+            "imatgeMiniatura": "TBBT20084.jpg",
+            "productor": "Chuck Lorre",
+            "sinopsi": "En Leonard i en Sheldon són dos joves físics brillants que viuen junts i comparteixen feina a la universitat de Caltech, Pasadena (Califòrnia). Però tot i ser superdotats, les seves habilitats no els són gaire útils per interaccionar amb gent normal i corrent, sobretot amb dones. Són molt aficionats als videojocs, còmics i a la ciència-ficció. Acostumen a jugar a l'Halo i al World of Warcraft, són fanàtics de Flash, Superman, El senyor dels anells i La guerra de les galàxies, entre d'altres.",
+            "valoracio": 7.7,
+            "categories": "Comèdia, Sitcom",
+            "undefined": " "
+        },
+        {
+            "id": 8,
+            "nom": "Titanic 2",
+            "teCapitols": false,
+            "data": "2010-06-24",
+            "actors": "Shane Van Dyke, Marie Westbrook, Bruce Davison, Brooke Burns",
+            "directors": "Shane Van Dyke",
+            "imatgeGran": "titanic2big.jpg",
+            "imatgeMiniatura": "titanic2small.jpg",
+            "productor": "Shane Van Dyke",
+            "sinopsi": "En las aguas del Ártico, cerca del glaciar Helheim en Groenlandia, una persona está surfeando sobre las olas creadas por la caída de pedazos de hielo que caen del glaciar al océano debido a los efectos del calentamiento global. Sin embargo, un gran trozo de hielo cae al agua, creando una ola especialmente grande. El surfista intenta escapar de la ola, pero es demasiado rápido para él, y en cuestión de segundos, lo atrapa y luego lo ahoga y lo mata.",
+            "valoracio": 1.6,
+            "categories": "accion, aventura, drama",
+            "undefined": " "
+        },
+        {
+            "id": 9,
+            "nom": "Ronaldo",
+            "teCapitols": false,
+            "data": "2015-09-09",
+            "actors": "Cristiano Ronaldo",
+            "directors": "Cristiano Ronaldo",
+            "imatgeGran": "cristiano_ronaldo_max.jpg",
+            "imatgeMiniatura": "cristiano_ronaldo_mini.jpg",
+            "productor": "Cristiano Ronaldo",
+            "sinopsi": "Ronaldo documenta la vida de Cristiano Ronaldo (nacido Ronaldo dos Santos Aveiro; 5 de febrero de 1985), de su niñez hasta 2015, a través de una serie de entrevistas con Ronaldo, con amigos y su familia. Partes del documental también siguen el día a día de Ronaldo con su familia y amigos, incluyendo su hijo Cristiano Jr., su madre Maria Dolores dos Santos Aveiro, su hermano Hugo y sus hermanas Elma y Cátia Lilian.",
+            "valoracio": 7,
+            "categories": "Biografica",
+            "undefined": " "
+        },
+        {
+            "id": 10,
+            "nom": "Sinister",
+            "teCapitols": false,
+            "data": "2012-03-11",
+            "actors": "Ethan Hawke, Juliet Rylance",
+            "directors": "Scott Derrickson",
+            "imatgeGran": "Sinister720300.jpg",
+            "imatgeMiniatura": "Sinister20084.jpg",
+            "productor": "Jason Blum",
+            "sinopsi": "True crime writer Ellison Oswalt moves into a home with his wife Tracy, their 12-year-old son Trevor, and their 7-year-old daughter Ashley. Ellison has moved his family (unbeknownst to them) into a home where a family was murdered, all hanged by ropes on a tree in the backyard. Ellison intends to use the case of the murdered family as the basis for his new book and hopes that his research will reveal the fate of the Stevenson family's fifth member, a 10-year-old girl named Stephanie who disappeared following the murders. Later that night Ellison discovers in a box a screaming, half-naked Trevor having a night terror.\r\n\r\nEllison finds a box in the attic that contains a projector and several reels of Super 8 mm footage that are each labeled as home movies. Ellison discovers that the films are actually murder footage depicting different families being murdered in various ways, including drowning, throat-cutting, and arson. Each murder is performed by an unseen person holding a camera and filming the killings. Ellison notes the appearance of a mysterious symbol in the films as well as a strange masked figure. Consulting a local deputy (whom Ellison nicknames \"Deputy So & So\"), they discover that the murders took place at different times, beginning in the 1960s and in different cities across the country. He also learns that a child from each family went missing following every murder. The deputy refers Ellison to Professor Jonas, whose expertise is the occult, to decipher the symbol in the films. Jonas tells Ellison that such symbols refer to a Babylonian deity named Bughuul, who would kill entire families and then take one of their children in order to consume their soul.\r\n\r\nOne night, Ellison hears the film projector running and finds the missing children seated in the attic watching one of the films. Bughuul suddenly appears on camera before physically appearing before Ellison, causing him to fall off the ladder. Ellison takes the camera, projector, and films outside and burns them with lighter fluid. His wife meets him outside, and he tells her they're moving back to their old house immediately. At his old home, Ellison receives a video-message from Jonas, who sends him scans of historical images associated with Bughuul, which include the symbol seen in the murder movies; early Christians believed that images of Bughuul served as a gateway for the demon to come from the spiritual realm to the mortal world, and children who come into contact with these images can be possessed.\r\n\r\nEllison discovers the unharmed projector and films in his attic, exactly as he did in the new house, along with an envelope of film labeled \"Extended Cut Endings\". Deputy So & So calls and informs Ellison that every murdered family had previously lived in the house where the last murder took place, and each new murder occurred shortly after the family moved from the crime scene into their new residence. By moving, Ellison has placed himself and his family in line to be the next victims.\r\n\r\nThe extra footage depicts the missing children coming onscreen following each murder, revealing themselves to be the killers, before suddenly disappearing. Ellison becomes lightheaded and, before losing consciousness, notices a bright green liquid mixed with his coffee in the cup, along with a note reading, \"Good Night, Daddy\". Ellison awakens to find himself, Tracy, and Trevor bound and gagged on the floor. Ashley, under Bughuul's possession, approaches them, filming with the 8 mm camera, and murders them all on camera with an axe, using their blood to paint pictures on the house walls along with Bughuul's symbol on a door. Ashley then views the film of her murders while drawing the murder in the lid of the home movies box. The missing children stare at her through the camera but flee when Bughuul appears. He lifts Ashley into his arms and teleports into the film with her. The box of films is seen sitting in the Oswalt family's attic, now accompanied by Ashley's reel, labeled \"House Painting '12\". Bughuul suddenly jump scares the screen until it cuts to black.",
+            "valoracio": 5.9,
+            "categories": "Terror, Policíaca",
+            "undefined": " "
+        },
+        {
+            "id": 11,
+            "nom": "Shin chan en busca de las bolas perdidas",
+            "teCapitols": false,
+            "data": "1997-04-19",
+            "actors": "Shin-Chan,Misae Nohara,Hiroshi Nohara,Himawari Nohara,Nevado",
+            "directors": "Keiichi Hara",
+            "imatgeGran": "shinChan_gran.jpg",
+            "imatgeMiniatura": "shinChan_petita.jpg",
+            "productor": "Shin-Ei Animation",
+            "sinopsi": "The Nohara family gets involved in a dispute between two clans who are fighting to possess a sphere claimed to be able to bring back to life a powerful evil spirit.",
+            "valoracio": 6.7,
+            "categories": "Thriller,accion",
+            "undefined": " "
+        },
+        {
+            "id": 12,
+            "nom": "Deadpool",
+            "teCapitols": false,
+            "data": "2016-01-21",
+            "actors": "Ryan Reynolds,Morena Baccarin ,Ed Skrein,Gina Carano,T. J. Miller ,Brianna Hildebrand ,Stefan Kapicic ,Leslie Uggams ",
+            "directors": "Tim Miller",
+            "imatgeGran": "deadpool_gran.jpg",
+            "imatgeMiniatura": "deadpool_petita.jpg",
+            "productor": "Ryan Reynolds,Lauren Shuler Donner,Simon Kinberg",
+            "sinopsi": "Wade Wilson es un mercenario que pasaba su tiempo en la ciudad de Nueva York protegiendo a las adolescentes de los posibles acosadores y asistía a un bar en el que los ebrios solían organizar peleas denominadas Pozos de la Muerte. Una noche en el bar, Wade conoce a Vanessa Carlysle y se convierten en novios por casi un año, durante ese tiempo deciden celebrar su amor, teniendo relaciones sexuales en todas las festividades (excepto en la Pascua de Resurrección). Cuando estaban teniendo relaciones sexuales una noche de Navidad, Wade le propone matrimonio a Vanessa, luego de repente se derrumba y es diagnosticado con cáncer terminal aligado a los pulmones, próstata y cerebro, lo que hace prácticamente imposible la operación. A pesar de que Vanessa decidió no rendirse y buscar soluciones, Wade sólo quiere aprovechar el poco tiempo que le queda",
+            "valoracio": 8,
+            "categories": "accion,comedia",
+            "undefined": " "
+        },
+        {
+            "id": 13,
+            "nom": "Doce hombres sin piedad",
+            "teCapitols": false,
+            "data": "1958-02-03",
+            "actors": "Henry Fonda, Lee J.Cobb, Joseph Sweeney, Jack Klugman, Ed Begley, Jack Warden",
+            "directors": "Sidney Lumet",
+            "imatgeGran": "doce_hombres_sin_piedad_grande.jpg",
+            "imatgeMiniatura": "doce_hombres_sin_piedad_pequqena.jpg",
+            "productor": "Orion-Nova Productions",
+            "sinopsi": "Un hombre mantiene su decisión sobre la inocencia de un presunto asesino aunque es presionado por los otros del jurado.",
+            "valoracio": 8.7,
+            "categories": "Drama, Policíaco",
+            "undefined": " "
+        },
+        {
+            "id": 14,
+            "nom": "The Hobbit: An Unexpected Journey",
+            "teCapitols": false,
+            "data": "2012-12-14",
+            "actors": "Ian McKellen, Martin Freeman, Richard Armitage, James Nesbitt, Ken Stott, Cate Blanchett, Ian Holm, Christopher Lee, Hugo Weaving, Elijah Wood, Andy Serkis",
+            "directors": "Peter Jackson",
+            "imatgeGran": "Hobbit720300.jpg",
+            "imatgeMiniatura": "Hobbit20084.jpg",
+            "productor": "Carolynne Cunningham, Zane Weiner, Fran Walsh, Peter Jackson",
+            "sinopsi": "Approaching his 111th birthday, the Hobbit Bilbo Baggins begins writing down the full story of his adventure 60 years earlier for the benefit of his nephew Frodo.\r\n\r\nLong before Bilbo's involvement, the Dwarf king Thrór brought an era of prosperity for his kin under the Lonely Mountain until the arrival of the dragon Smaug. Destroying the nearby town of Dale, Smaug drove the Dwarves out of their mountain and took their hoard of gold. Thrór's grandson, Thorin, sees King Thranduil and his Wood-elves on a nearby hillside, and is dismayed when they leave rather than aid his people, resulting in Thorin's everlasting hatred of Elves.\r\n\r\nIn the Shire, 50-year-old Bilbo is tricked by the wizard Gandalf the Grey into hosting a party for Thorin and his company of Dwarves: Balin, Dwalin, Fíli, Kíli, Dori, Nori, Ori, Óin, Glóin, Bifur, Bofur, and Bombur. Gandalf's aim is to recruit Bilbo as the company's \"burglar\" to aid them in their quest to enter the Lonely Mountain. Bilbo is unwilling to accept at first, but has a change of heart after the company leaves without him the next day. Bilbo races to join the company. Travelling onward, the company is captured by three Trolls. Bilbo stalls the Trolls from eating them until dawn, and Gandalf exposes the trolls to sunlight, turning them to stone. The company locates the Trolls' cave and finds treasure and Elven blades. Thorin and Gandalf each take an Elf-made blade, Orcrist and Glamdring, respectively; Gandalf also finds an Elven dagger, which he gives to Bilbo.\r\n\r\nThe wizard Radagast the Brown finds Gandalf and the company, and recounts an encounter at Dol Guldur with the Necromancer, a sorcerer who has been corrupting Greenwood with dark magic. Chased by Orcs, Gandalf leads the company through a hidden passage to Rivendell. There, Lord Elrond discloses a hidden indication of a secret door on the company's map of the Lonely Mountain, which will be visible only on Durin's Day. Gandalf later approaches the White Council — consisting of Elrond, Galadriel and Saruman the White — and presents a Morgul blade, a weapon of the Witch-king of Angmar, which Radagast obtained from Dol Guldur as a sign that the Necromancer is linked to an eventual return of Sauron. While Saruman presses concern to the more present matter of the Dwarves' quest, requesting that Gandalf put an end to it, Gandalf secretly reveals to Galadriel he had anticipated this and had the Dwarves move forward without him.\r\n\r\nThe company journeys into the Misty Mountains, where they find themselves amid a colossal battle between Stone Giants. They take refuge in a cave and are captured by Goblins, who take them to their leader, the Great Goblin. Bilbo becomes separated from the Dwarves and falls into a crevice where he encounters Gollum, who unknowingly drops a golden ring. Pocketing the ring, Bilbo finds himself confronted by Gollum. They play a riddle game, wagering that Bilbo will be shown the way out if he wins or eaten by Gollum if he loses. Bilbo eventually wins by asking Gollum what he has in his pocket. Noticing his ring is lost, Gollum realizes that Bilbo possesses it and chases him. Bilbo discovers that the ring grants him invisibility, but when he has a chance to kill Gollum, Bilbo spares his life out of pity and escapes while Gollum shouts his hatred towards the hobbit Baggins.\r\n\r\nMeanwhile, the Great Goblin reveals to the Dwarves that Azog, an Orc war-chief who killed Thrór and lost his forearm to Thorin in battle outside the Dwarven kingdom of Moria, has placed a bounty on Thorin's head. Gandalf arrives and leads the Dwarves in an escape, killing the Great Goblin. Bilbo exits the mountain and rejoins the company, keeping his newly obtained ring secret. The company is ambushed by Azog and his hunting party, and takes refuge in trees. Thorin charges at Azog, who overpowers and severely injures him with his Warg. Bilbo saves Thorin from the Orcs and challenges Azog, just as the company is rescued by eagles implied to be sent by Galadriel. They escape to the safety of the Carrock where Gandalf revives Thorin, who renounces his previous disdain for Bilbo after being saved by him.\r\n\r\nThey see the Lonely Mountain in the distance, where a sleeping Smaug is awoken by a thrush knocking a snail against a stone.",
+            "valoracio": 7,
+            "categories": "Fantasia, Aventura",
+            "undefined": " "
+        },
+        {
+            "id": 15,
+            "nom": "How I Met your Mother",
+            "teCapitols": true,
+            "data": "2005-08-19",
+            "actors": "Josh Radnor, Jason Segel, Cobie Smulders, Neil Patrick Harris, Alyson Hannigan, Cristin Milioti",
+            "directors": "Pamela Fryman, Rob Greenberg, Michael Shea, Neil Patrick Harris",
+            "imatgeGran": "HIMYM720300.jpg",
+            "imatgeMiniatura": "HIMYM20084.jpg",
+            "productor": "Randy Cordray, Suzy Mamann, Chris Harris, Jamie Rhonheimer, Kourtney Kang, Brenda Hsueh, Rob Greenberg, Tami Sagher",
+            "sinopsi": "The series follows the adventures of Ted Mosby (played by Josh Radnor), who narrates the story of how he met the mother of his children. The story goes into a flashback and starts in 2005 with the 27-year-old Ted Mosby living in New York City and working as an architect. The narrative deals primarily with his best friends, including the long-lasting couple Marshall Eriksen (Jason Segel) and Lily Aldrin (Alyson Hannigan), womanizing playboy Barney Stinson (Neil Patrick Harris), and Canadian news reporter Robin Scherbatsky (Cobie Smulders); all of the characters' lives are entwined. The series explores many storylines, including a \"will they or won't they\" relationship between Robin and each of the two single male friends, Marshall and Lily's relationship, and the ups and downs of the characters' careers.\r\n\r\nThe show's frame story depicts Ted (voice of Bob Saget, uncredited) verbally retelling the story to his son Luke (David Henrie) and daughter Penny (Lyndsy Fonseca) as they sit on the couch in the year 2030. This future-set frame is officially the show's \"present day\", and How I Met Your Mother exploits this framing device in numerous ways: to depict and re-depict events from multiple points of view; to set up jokes using quick and sometimes multiple flashbacks nested within the oral retelling; to substitute visual, verbal, or aural euphemisms for activities Ted does not want to talk about with his children (sexual practices, use of illicit substances, vulgar language, etc.); and even to add some elements of humor: in the episode \"How I Met Everyone Else\", Ted describes his dates with a girlfriend whose name he has forgotten, leading all characters to act as though her given name were \"Blah-Blah\"; later in the series, Ted remembers her name is Carol.\r\n\r\nWhile the traditional love story structure begins when the romantic leads first encounter each other, How I Met Your Mother does not introduce Ted's wife (Cristin Milioti) until the eighth-season finale and only announces her name (Tracy McConnell) during the series finale. The show instead focuses on Ted's prior relationships and his dissatisfaction with those women, thus setting the stage for his eventual happiness with Tracy. Finally in present 2030, six years after Tracy's death, Ted gets back with Robin, which viewers may have assumed at the series finale when Ted is standing outside Robin's window. Ted's children were the ones to realize first that Ted was still in love with Robin, through the stories he told.",
+            "valoracio": 7.6,
+            "categories": "Sitcom, Comèdia",
+            "undefined": " "
+        },
+        {
+            "id": 16,
+            "nom": "Doraemon y el dinosaurio de Nobita",
+            "teCapitols": false,
+            "data": "2007-06-31",
+            "actors": "Doraemon, Nobita,Gegant,Shisuka,Suneo",
+            "directors": "Ayumu Watanabe",
+            "imatgeGran": "Bartomeu.jpg",
+            "imatgeMiniatura": "Doraemon.jpg",
+            "productor": "Shin-Ei Animation Co., Ltd.",
+            "sinopsi": "En Nobita, al costat dels seus amics, es troba a casa d'en Suneo, qui els ensenya el fòssil d'una arpa de dinosaure. En Nobita, enfadat que en Suneo tingui aquesta barra, proposa a tots trobar un fòssil sencer de dinosaure ell mateix. Així que comença a llegir llibres, i a cercar les zones on pogués haver-hi fòssils. Increïblement, troba alguna cosa semblant a l'ou d'un dinosaure, i és el que resulta ser quan en Nobita el tapa amb el mocador del temps. Quan neix el dinosaure de l'ou, en Nobita decideix cuidar-lo, i a més, l'anomena Pisuke. Durant uns mesos l'amaga a la seva habitació, però serà una tasca difícil, ja que a part de prometre indegudament menjar-se uns espaguetis pel nas, un caçador de dinosaures del segle XXII, voldran comprar en Pisuke a qualsevol preu, i no es donaran per vençuts fàcilment. Els 5 amics viatjaran al període cretàcic, amb en Pisuke. Tot es complica quan a més del caçador, es trenca la màquina del temps, i els 6 han de viatjar al calaix de l'escriptori de Nobita d'aquella època per tornar al seu temps actual. Pel camí, els succeiran un munt d'aventures.",
+            "valoracio": 6.9,
+            "categories": "pel·lícula de comèdia, animació",
+            "undefined": " "
+        },
+        {
+            "id": 17,
+            "nom": "House of Cards",
+            "teCapitols": true,
+            "data": "2016-01-01",
+            "actors": "Robin Wright,Michael Kelly,Diane Lane",
+            "directors": "Beau Willimon",
+            "imatgeGran": "hoc.jpg",
+            "imatgeMiniatura": "hoc_mini.jpg",
+            "productor": "Netflix",
+            "sinopsi": "Un despiadado político no se detendrá ante nada en su camino hacia Washington D.C. en este drama político ganador de varios premios Emmy y Globos de Oro.",
+            "valoracio": 7.8,
+            "categories": "Drama,Policíaco",
+            "undefined": " "
+        },
+        {
+            "id": 18,
+            "nom": "Mr. Robot",
+            "teCapitols": true,
+            "data": "2019-12-22",
+            "actors": "Rami Malek,Christian Slater,Portia Doubleday,Carly Chaikin,Martin Wallström",
+            "directors": "Sam Esmail",
+            "imatgeGran": "mr_robot_big.jpg",
+            "imatgeMiniatura": "mr_robot_small.jpg",
+            "productor": "Igor Srubshchik,Christian Slater",
+            "sinopsi": "Elliot is recruited by an insurrectionary anarchist known as \"Mr. Robot\", played by Christian Slater, to join a group of hacktivists called \"fsociety\". The group aims to destroy all debt records by encrypting the financial data of E Corp, the largest conglomerate in the world.",
+            "valoracio": 8.5,
+            "categories": "Drama,Techno thriller,Psychological thriller",
+            "undefined": " "
+        }
+    ],
+    "Episodis": [
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 1,
+            "títol": "Chapter 1",
+            "duració": 57,
+            "imatge": "hoc_c1.jpg",
+            "sinopsi": "When the newly elected President reneges on a promise, Frank and Claire decide to sever all allegiances and toss the rules out the window."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 2,
+            "títol": "Chapter 2",
+            "duració": 50,
+            "imatge": "hoc_c2.jpg",
+            "sinopsi": "Frank uses a young reporter, Zoe Barnes, to spin a story that puts the White House on its heels. Claire makes a cold-blooded move at work."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 3,
+            "títol": "Chapter 3",
+            "duració": 51,
+            "imatge": "hoc_c3.jpg",
+            "sinopsi": "Frank must leave union negotiations to deal with a crisis in his home district. Zoe negotiates the politics of being a journalist on the rise."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 4,
+            "títol": "Chapter 4",
+            "duració": 49,
+            "imatge": "hoc_c4.jpg",
+            "sinopsi": "Frank shakes down the Congressional leadership. Peter Russo must choose between politics and family."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 5,
+            "títol": "Chapter 5",
+            "duració": 53,
+            "imatge": "hoc_c5.jpg",
+            "sinopsi": "Frank's fight over the Education Bill threatens Claire's own ambitions. Zoe mixes work and play."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 6,
+            "títol": "Chapter 6",
+            "duració": 51,
+            "imatge": "hoc_c6.jpg",
+            "sinopsi": "Frank strikes back at the striking teachers. Claire is caught off guard by a deathbed confession."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 1,
+            "numero": 7,
+            "títol": "Chapter 7",
+            "duració": 54,
+            "imatge": "hoc_c7.jpg",
+            "sinopsi": "Frank wins a major battle, but doesn't pause to rest on his laurels. Peter must face his past. Stamper hushes a secret."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 2,
+            "numero": 1,
+            "títol": "Capítulo 14",
+            "duració": 51,
+            "imatge": "hoc_c14.jpg",
+            "sinopsi": "El matrimonio Underwood afronta dos problemas que podrían arruinar sus planes; Frank prepara al que será su sustituto como parlamentario, y Claire pasa a la ofensiva."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 2,
+            "numero": 2,
+            "títol": "Capítulo 15",
+            "duració": 50,
+            "imatge": "hoc_c15.jpg",
+            "sinopsi": "Frank tiene a China en el punto de mira; Claire afronta un doloroso trauma de su pasado, y Lucas Goodwin trata de averiguar la verdad."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 2,
+            "numero": 3,
+            "títol": "Capítulo 16",
+            "duració": 52,
+            "imatge": "hoc_c16.jpg",
+            "sinopsi": "La tensión entre Frank y Raymond Tusk aumenta a medida que la situación con China se deteriora. Frank se enfrenta a los republicanos en el Senado."
+        },
+        {
+            "id_serie": 17,
+            "temporada": 2,
+            "numero": 4,
+            "títol": "Capítulo 17",
+            "duració": 53,
+            "imatge": "hoc_c17.jpg",
+            "sinopsi": "Un incidente en el Capitolio deja atrapados a Frank y al resentido Donald Blythe. Claire concede una entrevista en directo que provoca un terremoto mediático."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 1,
+            "numero": 1,
+            "títol": "El himno nacional",
+            "duració": 44,
+            "imatge": "blackM_t1_c1.jpg",
+            "sinopsi": "El primer ministro Michael Callow se enfrenta a un dilema impactante cuando la princesa Susannah, un miembro muy querido de la familia real, es secuestrada."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 1,
+            "numero": 2,
+            "títol": "15 millones de méritos",
+            "duració": 62,
+            "imatge": "blackM_t1_c2.jpg",
+            "sinopsi": "Tras fracasar al intentar impresionar a los jueces en una competición de canto, una mujer tiene que hacer actuaciones degradantes o regresar a su vida de esclava."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 1,
+            "numero": 3,
+            "títol": "Toda tu historia",
+            "duració": 49,
+            "imatge": "blackM_t1_c3.jpg",
+            "sinopsi": "En un futuro cercano, todo el mundo tendrá acceso a un implante de memoria que grabe todo lo que los humanos hagan, vean y oigan."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 2,
+            "numero": 1,
+            "títol": "Ahora mismo vuelvo",
+            "duració": 49,
+            "imatge": "1_2_1.jpg",
+            "sinopsi": "Después de enterarse de un nuevo servicio que permite a la gente estar en contacto con los muertos, Martha, solitaria y afligida, conecta con su difunto novio."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 2,
+            "numero": 2,
+            "títol": "Oso blanco",
+            "duració": 43,
+            "imatge": "1_2_2.jpg",
+            "sinopsi": "Victoria se despierta y no puede recordar nada de su vida. Todo el mundo con el que se encuentra, se niega a comunicarse con ella."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 2,
+            "numero": 3,
+            "títol": "El momento Waldo",
+            "duració": 44,
+            "imatge": "1_2_3.jpg",
+            "sinopsi": "Un cómico fracasado que pone la voz a un oso de dibujos animados, se ve arrastrado a la política cuando los ejecutivos quieren que el oso se presente como candidato."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 2,
+            "numero": 4,
+            "títol": "Blanca Navidad",
+            "duració": 74,
+            "imatge": "1_2_4.jpg",
+            "sinopsi": "En una base remota aislada por la nieve, dos hombres cuentan varias historias sobre estragos causados por la tecnología durante unas navidades."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 1,
+            "títol": "Caida en picado",
+            "duració": 63,
+            "imatge": "1_3_1.jpg",
+            "sinopsi": "Desesperada por aumentar su popularidad en las redes sociales, una mujer acude ilusionada a una boda de alto copete. Pero el viaje no sale como tenía previsto"
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 2,
+            "títol": "Playtesting",
+            "duració": 57,
+            "imatge": "1_3_2.jpg",
+            "sinopsi": "Un viajero estadounidense que anda mal de dinero se apunta a ser tester de un nuevo sistema de videojuegos. Pronto descubrirá que la ficción a veces es demasiado real."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 3,
+            "títol": "Cállate y baila",
+            "duració": 53,
+            "imatge": "1_3_3.jpg",
+            "sinopsi": "Un virus ha infectado su ordenador y ahora se enfrenta a una terrible decisión: o sigue las órdenes que le mandan por SMS o sus secretos más íntimos saldrán a la luz."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 4,
+            "títol": "San Junípero",
+            "duració": 61,
+            "imatge": "1_3_4.jpg",
+            "sinopsi": "Costa de California, 1987. Una tímida joven y una chica alegre y extrovertida sellan un vínculo muy fuerte, que parece desafiar las leyes del tiempo y del espacio."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 5,
+            "títol": "La ciencia de matar",
+            "duració": 60,
+            "imatge": "1_3_5.jpg",
+            "sinopsi": "Después de su primera batalla con un esquivo enemigo, un soldado empieza a tener sensaciones extrañas y fallos técnicos muy raros."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 3,
+            "numero": 6,
+            "títol": "Odio nacional",
+            "duració": 90,
+            "imatge": "1_3_6.jpg",
+            "sinopsi": "Una periodista muere envuelta en la polémica en las redes sociales. Al investigar, una veterana policía y su discípula, experta en tecnología, descubren algo espantoso."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 1,
+            "títol": "USS Callister",
+            "duració": 77,
+            "imatge": "1_4_1.jpg",
+            "sinopsi": "El comandante Robert Daly dirige a su tripulación con sabiduría y coraje, pero una nueva recluta descubrirá que en la nave USS Callister no todo es lo que parece."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 2,
+            "títol": "Arkangel",
+            "duració": 52,
+            "imatge": "1_4_2.jpg",
+            "sinopsi": "Una madre soltera preocupada por la seguridad de su hija decide implantarle un dispositivo de alta tecnología que monitoriza su localización. Y muchas otras cosas."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 3,
+            "títol": "Cocodrilo",
+            "duració": 59,
+            "imatge": "1_4_3.jpg",
+            "sinopsi": "Mia es una arquitecta que debe guardar un terrible secreto mientras una investigadora de seguros examina los recuerdos de los testigos de un accidente."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 4,
+            "títol": "Hang de DJ",
+            "duració": 52,
+            "imatge": "1_4_4.jpg",
+            "sinopsi": "Cuando Frank y Amy se conocen gracias a un programa de citas que pone fecha de caducidad a las relaciones, pronto empiezan a cuestionarse la lógica del sistema."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 5,
+            "títol": "Cabeza de metal",
+            "duració": 41,
+            "imatge": "1_4_5.jpg",
+            "sinopsi": "En un almacén abandonado, unos carroñeros en busca de víveres se topan con un implacable enemigo. Si quieren sobrevivir, deberán escapar a través de un inhóspito páramo."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 4,
+            "numero": 6,
+            "títol": "Black Museum",
+            "duració": 69,
+            "imatge": "1_4_6.jpg",
+            "sinopsi": "Una joven descubre en plena autopista un museo que contiene objetos criminológicos supuestamente auténticos... y que ofrece una perturbadora atracción principal."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 5,
+            "numero": 1,
+            "títol": "Striking vipers",
+            "duració": 62,
+            "imatge": "1_5_1.jpg",
+            "sinopsi": "Cuando Danny y Karl, dos antiguos amigos de la universidad, se reencuentran en un juego de realidad virtual, sus partidas nocturnas tendrán consecuencias inesperadas."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 5,
+            "numero": 2,
+            "títol": "Añicos",
+            "duració": 70,
+            "imatge": "1_5_2.jpg",
+            "sinopsi": "Un conductor de VTC provoca una crisis internacional cuando secuestra a un empleado de una empresa de redes sociales en Londres."
+        },
+        {
+            "id_serie": 1,
+            "temporada": 5,
+            "numero": 3,
+            "títol": "Rachel,Jack y Ashley Too",
+            "duració": 67,
+            "imatge": "1_5_3.jpg",
+            "sinopsi": "Una adolescente solitaria se obsesiona con una muñeca robot basada en su ídolo del pop, Ashley O, justo cuando la vida de la verdadera Ashley empieza a desmoronarse."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 1,
+            "títol": "Pilot",
+            "duració": 22,
+            "imatge": "7_1_1.jpg",
+            "sinopsi": "Penny, la nueva y guapa vecina, deja totalmente impresionado a Leonard, un científico asocial, para desgracia de su compañero de piso, Sheldon."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 2,
+            "títol": "The Big Bran Hypothesis",
+            "duració": 21,
+            "imatge": "7_1_2.jpg",
+            "sinopsi": "Leonard se ofrece para recoger un paquete en nombre de Penny, pero las cosas no salen bien cuando Sheldon siente la necesidad de limpiar el apartamento de su vecina."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 3,
+            "títol": "The Fuzzy Boots Corollary",
+            "duració": 21,
+            "imatge": "7_1_3.jpg",
+            "sinopsi": "Leonard se queda deshecho cuando ve a Penny besarse con otro chico; por ello decide pedirle que salga con él con el pretexto de cenar con todos los chicos."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 4,
+            "títol": "The Luminous Fish Effect",
+            "duració": 20,
+            "imatge": "7_1_4.jpg",
+            "sinopsi": "Leonard llama a la madre de Sheldon cuando este se obsesiona con los ponchos y la iluminación de los peces cuando se queda sin trabajo."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 5,
+            "títol": "The Hamburguer Postulate",
+            "duració": 20,
+            "imatge": "7_1_5.jpg",
+            "sinopsi": "Después de ponerse de acuerdo con Leslie, Leonard se disgusta cuando se entera de que ella solo está interesada en tener sexo solo una noche."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 6,
+            "títol": "The Middle-earth Paradigm",
+            "duració": 20,
+            "imatge": "7_1_6.jpg",
+            "sinopsi": "Los chicos salen de la zona de confort cuando aceptan una invitación a la fiesta de Halloween de Penny, donde Leonard tiene un encontronazo con la expareja de Penny."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 7,
+            "títol": "The Dumpling Paradox",
+            "duració": 21,
+            "imatge": "7_1_7.jpg",
+            "sinopsi": "Cuando la amiga de Penny pasa la noche en su apartamento con Howard, Penny tiene que quedarse a dormir con los chicos y convertirse en el cuarto miembro del equipo Halo."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 8,
+            "títol": "The Grasshopper Experiment",
+            "duració": 20,
+            "imatge": "7_1_8.jpg",
+            "sinopsi": "Tras organizarle una cita, el tímido de Raj se da cuenta de que puede hablarle a las mujeres cuando bebe. Pero se pasa con las copas y su cita se marcha con Sheldon."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 9,
+            "títol": "The Cooper-Hofstader Polarization",
+            "duració": 19,
+            "imatge": "7_1_9.jpg",
+            "sinopsi": "A Leonard y a Sheldon los invitan a una charla para presentar la investigación que realizaron juntos, pero Sheldon no quiere participar."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 10,
+            "títol": "The Loobenfeld Decay",
+            "duració": 20,
+            "imatge": "7_1_10.jpg",
+            "sinopsi": "Leonard y Sheldon mienten para evitar escuchar a una desafinada Penny cantar, pero Sheldon va más allá e inventa a un primo adicto a las drogas."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 11,
+            "títol": "The Pancake Batter Anomaly",
+            "duració": 21,
+            "imatge": "7_1_11.jpg",
+            "sinopsi": "Cuando Sheldon, con su obsesión por los gérmenes, se enferma, los chicos se quitan de en medio y será Penny la que cuide del exigente e insoportable paciente."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 12,
+            "títol": "The Jerusalem duality",
+            "duració": 20,
+            "imatge": "7_1_12.jpg",
+            "sinopsi": "Un genio de 15 años aparta a Sheldon de la investigación física, de modo que se propone ganar el Premio Nobel con la réplica de Jerusalén en México."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 13,
+            "títol": "The Bat Jar Conjecture",
+            "duració": 21,
+            "imatge": "7_1_13.jpg",
+            "sinopsi": "Los chicos echan a Sheldon del equipo de física cansados de su fanfarronería. Leslie lo reemplazará y Sheldon decide formar un equipo muy variopinto"
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 14,
+            "títol": "The Nerdvanna Annihilation",
+            "duració": 20,
+            "imatge": "7_1_14.jpg",
+            "sinopsi": "Penny se enfada con los chicos cuando compran un modelo a tamaño real de una máquina del tiempo, lo que lleva a Leonard a deshacerse de todos sus coleccionables."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 15,
+            "títol": "The Pork Chop Indeterminacy",
+            "duració": 21,
+            "imatge": "7_1_15.jpg",
+            "sinopsi": "Leonard, Howard y Raj se interesan por la hermana gemela de Sheldon, Missy, pero Sheldon considera que ninguno de los tres son merecedores de su hermana."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 16,
+            "títol": "The Peanut Reaction",
+            "duració": 19,
+            "imatge": "7_1_16.jpg",
+            "sinopsi": "Penny planea una fiesta de cumpleaños sorpresa para Leonard, pero las cosas se tuercen cuando Sheldon se olvida del regalo y a Howard le sientan mal los cacahuetes."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 1,
+            "numero": 17,
+            "títol": "The Tangerine Factor",
+            "duració": 20,
+            "imatge": "7_1_17.jpg",
+            "sinopsi": "Después de romper Penny con su novio, acepta salir con Leonard y ambos piden consejo a Sheldon."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 1,
+            "títol": "Piloto",
+            "duració": 22,
+            "imatge": "0_1_1.jpg",
+            "sinopsi": "Rick se lleva a Morty a otra dimensión en busca de semillas de \"mega-árboles\". Mientras, Jerry y Beth discuten sobre la influencia de Rick sobre su hijo."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 2,
+            "títol": "El cortador de césped perruno",
+            "duració": 22,
+            "imatge": "0_1_2.jpg",
+            "sinopsi": "Rick crea un dispositivo para hacer más listo al perro de la familia, con resultados desastrosos. Rick y Morty invaden los sueños del profesor de matemáticas de Morty."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 3,
+            "títol": "Parque anatómico",
+            "duració": 22,
+            "imatge": "0_1_3.jpg",
+            "sinopsi": "Morty acaba en un disparatado parque temático de enfermedades infecciosas que hay dentro de un sin techo. Los padres de Jerry presentan a su nuevo amante común."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 4,
+            "títol": "Los alienígenas de los giros inesperados",
+            "duració": 21,
+            "imatge": "0_1_4.jpg",
+            "sinopsi": "Los alienígenas envían a Rick, Morty y Jerry a una realidad alternativa. Rick trata de encontrar una salida, mientras que Jerry propone eslóganes para vender manzanas."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 5,
+            "títol": "La misión de los meeseeks",
+            "duració": 21,
+            "imatge": "0_1_5.jpg",
+            "sinopsi": "Morty se ha hartado de las locuras de Rick, así que emprende una aventura supuestamente menos peligrosa. Jerry invoca unas criaturas para que le ayuden a jugar al golf."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 6,
+            "títol": "Poción de Rick n.º9",
+            "duració": 22,
+            "imatge": "0_1_6.jpg",
+            "sinopsi": "Una poción creada para que una chica se sienta atraída por Morty se vuelve vírica e infecta la Tierra. Rick tendrá que solucionar el desastre... con otro desastre."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 7,
+            "títol": "Educando a Gazorpazorp",
+            "duració": 22,
+            "imatge": "0_1_7.jpg",
+            "sinopsi": "Cuando Morty tiene un hijo con una robot sexual, Rick y Summer viajan al planeta de la robot, donde el niño se hace adulto en cuestión de días."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 8,
+            "títol": "Sesenta Rick-nutos",
+            "duració": 23,
+            "imatge": "0_1_8.jpg",
+            "sinopsi": "Harto de lo que echan por la tele, Rick instala cable para sintonizar programas de otras dimensiones. Todos se ponen unas gafas especiales para ver sus yos alternativos."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 9,
+            "títol": "Cosas necesarias",
+            "duració": 23,
+            "imatge": "0_1_9.jpg",
+            "sinopsi": "A Rick no le convence el nuevo trabajo de Summer en una tienda regentada por el diablo. Jerry y Morty discuten sobre si Plutón es un planeta o no y acaban viajando allí."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 10,
+            "títol": "Encuent-Ricks en la Rick-cera fase",
+            "duració": 23,
+            "imatge": "0_1_10.jpg",
+            "sinopsi": "Rick está desayunando a su aire cuando un grupo de Ricks alternativos lo secuestran y lo llevan ante los tribunales acusado de crímenes contra los Ricks."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 1,
+            "numero": 11,
+            "títol": "Ricksy Business",
+            "duració": 23,
+            "imatge": "0_1_11.jpg",
+            "sinopsi": "Cuando Jerry y Beth se van a participar en una recreación del hundimiento del Titanic, Rick y Summer montan una fiesta que se les va de las manos."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 1,
+            "títol": "0_hellofriend.mov",
+            "duració": 62,
+            "imatge": "18_1_1.jpg",
+            "sinopsi": "A notorious hacker takes an interest in cyber security engineer and vigilante styled computer hacker Elliot, while an evil corporation is hacked."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 2,
+            "títol": "1_ones-and-zer0es.mpeg",
+            "duració": 48,
+            "imatge": "18_1_2.jpg",
+            "sinopsi": "Elliot is hesitant about fsociety; Elliot is offered a new job; Elliot worries about Shayla's association with Fernando Vera; Ollie is given a CD outside of Allsafe; Mr. Robot makes Elliot talk about his father."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 3,
+            "títol": "2_d3bug.mkv",
+            "duració": 46,
+            "imatge": "18_1_3.jpg",
+            "sinopsi": "Elliot tries to live a bug-free life, but is quickly drawn back in; Tyrell takes matters into his own hands when the CTO position becomes available; Ollie gets blackmailed; Gideon starts getting suspicious of the infected server."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 4,
+            "títol": "3_da3m0ns.mp4",
+            "duració": 46,
+            "imatge": "18_1_4.jpg",
+            "sinopsi": "While dealing with his withdrawal, Elliot suffers a series of hallucinations about his life, while Shayla helps Angela take an unexpected trip."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 5,
+            "títol": "4_3xpl0its.wmv",
+            "duració": 45,
+            "imatge": "18_1_5.jpg",
+            "sinopsi": "Fsociety attempts to penetrate Steel Mountain, the most secure data facility in America, while Angela makes an important decision."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 6,
+            "títol": "5_br4ve-trave1er.asf ",
+            "duració": 45,
+            "imatge": "18_1_6.jpg",
+            "sinopsi": "Elliot attempts to hack Vera out of jail in order to save someone he cares about; Tyrell's \"game\" gets crazy; and Angela digs deeper into her mother's death."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 7,
+            "títol": "6_v1ew-s0urce.flv",
+            "duració": 45,
+            "imatge": "18_1_7.jpg",
+            "sinopsi": "Elliot misses Shayla. Angela makes a deal with Colby. Sharon Knowles has an encounter with Tyrell."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 8,
+            "títol": "7_wh1ter0se.m4v",
+            "duració": 45,
+            "imatge": "18_1_8.jpg",
+            "sinopsi": "Allsafe is hacked and Elliot is meeting White Rose. Tyrell is interrogated by the police and Elliot remembers who he really is."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 1,
+            "numero": 9,
+            "títol": "8_m1rr0r1ng.qt ",
+            "duració": 49,
+            "imatge": "18_1_9.jpg",
+            "sinopsi": "Elliot has to face the challenges of his past, and become accustomed to his new found family."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 2,
+            "numero": 1,
+            "títol": "0_unm4sk-pt1.ct",
+            "duració": 41,
+            "imatge": "18_2_1.jpg",
+            "sinopsi": "Elliot keeps seeing his psychologist, Krista. The new character Susan Jacobs is having trouble with technology. Gideon pays a visit to Elliot complaining he's been targeted for a crime Elliot might have committed. Fsociety are back in action, asking E Corp for 5.9 million dollars in 24 hours."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 2,
+            "numero": 2,
+            "títol": "0_unm4sk-pt2.ct",
+            "duració": 42,
+            "imatge": "18_2_2.jpg",
+            "sinopsi": "Five/nine has changed the world; Elliot is in seclusion; Angela finds happiness at Evil Corp.; fsociety delivers a malicious payload."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 2,
+            "numero": 3,
+            "títol": "1_k3rnel-pan1c.ksd",
+            "duració": 63,
+            "imatge": "18_2_3.jpg",
+            "sinopsi": "Elliot vows to beat Mr. Robot; Angela gets a glimpse behind the curtain at E Corp; and fsociety stirs up trouble."
+        },
+        {
+            "id_serie": 18,
+            "temporada": 2,
+            "numero": 4,
+            "títol": "2_init_1.asec",
+            "duració": 65,
+            "imatge": "18_2_4.jpg",
+            "sinopsi": "Elliot vows to beat Mr. Robot; Angela gets a glimpse behind the curtain at E Corp; and fsociety stirs up trouble."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 1,
+            "títol": "The Bad Fish Paradigm",
+            "duració": 21,
+            "imatge": "7_2_1.jpg",
+            "sinopsi": "Penny y Leonard regresan de su primera cita mientras que Howard y Rajesh los espían usando una cámara web en el pasillo. Penny le dice a Leonard que deberían ir despacio las cosas, mientras que los chicos tratan de convencer a Leonard que la cita no fue buena. Por otra parte, Penny le revela a Sheldon que le mintió a Leonard sobre que había terminado la universidad, ya que tiene miedo de que no sea lo suficientemente lista para él. Posteriormente, Penny le pide a Sheldon que guarde el secreto, pero se le hace tan difícil guardar el secreto que se ve obligado a mudarse del apartamento de Leonard. Después de permanecer brevemente con Raj, y luego Howard, un drogado Sheldon vuelve al apartamento de Leonard, donde admite que Penny no completó la universidad pública. Al día siguiente, en un intento de ayudarla, Leonard le ofrece a Penny unos folletos con respecto a una universidad local, pero accidentalmente menciona que está bien salir con una chica que no es inteligente. Penny rápidamente cierra la puerta en su rostro mientras que Leonard se da cuenta de su error."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 2,
+            "títol": "The Codpiece Topology",
+            "duració": 21,
+            "imatge": "7_2_2.jpg",
+            "sinopsi": "Después de que los chicos regresaran de una feria renacentista, se encuentran a Penny con su nuevo novio, Eric (Travis Shculdt). Leonard decide entonces y de nuevo buscar una relación con su compañera, la física Leslie Winkle (Sara Gilbert). Pensando que ella necesita ralentizar las cosas, Leslie está de acuerdo con salir con Leonard, asumiendo varias veces el papel dominante antes de admitir que Leonard debe asumir el rol masculino. Con su nueva actitud, Leslie va demasiado lejos evaluando los defectos genéticos de Leonard, y hablando sobre procrear hijos con él.\r\nSheldon le explica a Penny que él se siente incómodo con Leonard saliendo con la que es su archienemiga, a la cual considera descuidada, una científica arrogante y mediocre. Después del consejo de Penny, Sheldon aprueba formalmente la relación entre Leonard y Leslie. Sin embargo, casi inmediatamente, Leslie y Sheldon comienzan a discutir sobre la gravedad cuántica de bucles, que Leslie apoya, y la teoría de cuerdas, que Sheldon apoya. Leslie espera que Leonard apoye sus creencias, pero cuando Leonard prefiere la teoría de cuerdas, Leslie decide cortar la relación."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 3,
+            "títol": "The Barbarian Sublimination",
+            "duració": 21,
+            "imatge": "7_2_3.jpg",
+            "sinopsi": "Mientras Sheldon jugaba a Age of Conan: Hyborian Adventures, escucha a Penny quedándose fuera de su apartamento. Penny está frustrada por sus fracasos en su vida, entre ellos, el de su carrera de actriz y sus seis meses sin sexo. Como Penny es invitada por Sheldon a su apartamento a esperar a que el cerrajero abra la puerta, siente curiosidad sobre el juego que Sheldon está jugando, y rápidamente se vuelve adicta al juego.\r\nEn los días siguientes, las experiencias de adicción de videojuegos de Penny aumentan: llama a Sheldon en todo momento pidiendo ayuda y deja de ir a trabajar para jugar al juego sin parar. Después de hablar con Leslie Winkle, Sheldon se da cuenta que Penny necesita tener sexo para aliviar su estrés y recuperar su vida normal. Sheldon luego intenta juntar a Penny con un servicio de citas en línea, pero falla miserablemente. Al final, Penny supera su adicción cuando se da cuenta que aceptó tener una cita virtual con Howard. Horrorizada, deja de jugar al momento."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 4,
+            "títol": "The Griffin Equivalency",
+            "duració": 21,
+            "imatge": "7_2_4.jpg",
+            "sinopsi": "Raj es incluido en la revista People en la lista «Treinta visionarios menores de 30 años para conocer» por su descubrimiento del objeto transneptuniano 2008 NQ17, lo que provoca celos en sus amigos. A pesar de los comentarios de Leonard que necesitaban ser de apoyo, a Raj la fama se le sube a la cabeza: recibe un tratamiento de estrella del Doctor Gablehauser (Mark Harelik), obtiene un asistente e invita a Penny a la recepción de la revista People.\r\nDespués de la fiesta, un intoxicado Raj regresa a casa con Penny, y en cámara web la presenta a sus padres como su novia, lo que hace que Penny se marche enfadada negando ser la novia de Raj, y con él sintiéndose enfermo por beber demasiado. A la mañana siguiente, un sobrio y tímido Raj trata de disculparse con Penny por su comportamiento. Aunque Raj trató de dejar una nota, Penny en última instancia obliga a Raj a decir un apenas audible «perdón», momento en que ella lo perdona.\r\nEl episodio concluye con una aparición de Charlie Sheen en el restaurante de Penny, y Raj le dice a un hombre que aparecerá en la revista People, pero Sheen, se da la vuelta y dice, «¿De verdad? Llámame cuando estés en la portada»."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 5,
+            "títol": "The Euclid Alternative",
+            "duració": 19,
+            "imatge": "7_2_5.jpg",
+            "sinopsi": "Leonard está trabajando por las noches en un experimento, lo que resulta en su incapacidad de conducir a Sheldon a la Universidad. Como resultado, Sheldon debe encontrar otra forma de llegar al trabajo. Le pide ayuda a Penny, Howard y Raj, pero todos lo expulsan de sus respectivos vehículos por ser un pesado como copiloto. Los amigos finalmente le dicen a Sheldon que se consiga una licencia de conducir y aprenda a hacerlo.\r\nDespués de un accidentado viaje, el grupo crea una simulación por computadora para él en la sala de estar. La práctica muestra que Sheldon es un conductor horrible, pero en lugar de admitir la derrota, simplemente llega a la conclusión de que es demasiado evolucionado para conducir un automóvil. Al final, Sheldon decide vivir en su oficina en la universidad para así no tener que viajar. Sin embargo, Leonard revela que había terminado su experimento hace una semana y que era muy agradable vivir en el apartamento sin Sheldon."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 6,
+            "títol": "The Cooper–Nowitzki Theorem",
+            "duració": 20,
+            "imatge": "7_2_6.jpg",
+            "sinopsi": "Después de una conferencia de Leonard y Sheldon, una estudiante graduada llamada Ramona Nowitzki (Riki Lindhome) se obsesiona con Sheldon y se insinúa en su vida como su novia/asistente. Ramona ha demostrado ser una influencia útil en el trabajo de Sheldon, pero se cansa de ella cuando ésta le prohíbe las actividades recreativas y le obliga a concentrarse únicamente en su investigación.\r\nSheldon finalmente se da cuenta de que está en «algún tipo de relación» con Ramona, y busca ayuda de Penny y Leonard para deshacerse de ella, sin éxito. Las cosas llegan a una conclusión cuando Sheldon alcanza un gran avance en su investigación científica y Ramona sugiere compartir el crédito por su descubrimiento. Naturalmente, Sheldon se niega y posteriormente deja a Ramona. Al final, después de leer un documento de proyecto de un nuevo teorema, otra estudiante se centra en Sheldon de la misma manera que Ramona lo hizo la primera vez."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 7,
+            "títol": "The Panty Piñata Polarization",
+            "duració": 21,
+            "imatge": "7_2_7.jpg",
+            "sinopsi": "Cuando Penny deja de tener televisión por cable, comienza a ir al apartamento de los chicos para ver America's Next Top Model. Sin embargo, Sheldon se lo prohíbe imponiéndole una serie de infracciones menores en su apartamento, como tocar su comida, sentarse en su sitio y enviarle «correos electrónicos de humor». Después de una serie de bromas, incluyendo cortar el acceso de Penny al wifi y Penny demoliendo la «noche de lavandería» de Sheldon, Sheldon llega al extremo de colgar su ropa de un cable de teléfono fuera de su apartamento. Leonard decide entonces ayudar a Penny a terminar la guerra y le da el número de teléfono de la madre de Sheldon. Posteriormente, la madre de Sheldon le llama y le obliga a disculparse con Penny.\r\nMientras tanto, Howard y Raj tratan de encontrar la ubicación de la casa de America's Next Top Model en Los Ángeles. Usando toda clase de tecnología a su disposición, incluyendo un avión espía militar y satélites de la NASA, consiguen finalmente identificarla. Al final, llegan a la casa, haciéndose pasar por técnicos de televisión por cable para entrar. El episodio termina con apariciones de Analeigh Tipton y Samantha Potter de la temporada 11 de America's Next Top Model."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 8,
+            "títol": "The Lizard–Spock Expansion",
+            "duració": 20,
+            "imatge": "7_2_8.jpg",
+            "sinopsi": "Howard piensa que encontró a su alma gemela, la doctora Stephanie Barnett (Sara Rue), hasta que ésta conoce a Leonard. Howard invita entonces a Stephanie a conducir un vehículo en Marte en una instalación secreta, pero el plan falla cuando los vientos hacen que el vehículo quede atrapado en una zanja en Marte. Para ocultar la evidencia de lo que hizo, Howard destruye todas las cintas de seguridad y los discos duros en relación con la misión.\r\nPor otra parte, Leonard tiene dificultades en decidir cómo decirle a Howard que comenzó a salir con Stephanie. Leonard decide entonces ir a la casa de Howard para decírselo personalmente, pero mientras, Stephanie llama a Howard y le da las noticias. Howard se enoja con Leonard, pero esto sólo dura hasta que Stephanie junta a Howard con una amiga, y lo invita a una doble cita. Al final, Howard escucha en las noticias que el vehículo que quedó atrapado encontró agua en el fondo de la zanja en Marte, pero como los datos de la misión fueron destruidos nadie sabría quién fue el responsable del asombroso descubrimiento."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 9,
+            "títol": "The White Asparagus Triangulation",
+            "duració": 20,
+            "imatge": "7_2_9.jpg",
+            "sinopsi": "Sheldon considera a la doctora Stephanie Barnett (Sara Rue), la única novia tolerable que Leonard ha tenido. Como resultado, Sheldon trata de ayudar a Leonard en su relación con Stephanie, pensando que Leonard la arruinará. Sin embargo, Leonard no quiere la ayuda de Sheldon ya que empieza a volverse molesto al unirse a la pareja en una cena romántica y yendo con ellos al cine.\r\nDespués de creer que Leonard está perdiendo a Stephanie, Sheldon trata de demostrar la superioridad física de Leonard a Stephanie intentando abrir un frasco de espárragos blancos. Sin embargo, Leonard rompe el frasco por accidente y tiene que ir al hospital. Tras la visita al hospital, Leonard descubre que Sheldon hackeó su cuenta de Facebook y cambió el estado a «en una relación». Leonard se preocupa porque esto le hace parecer desesperado, pero luego descubre que Stephanie cambió su estado a «Stephanie Barnett tiene una relación con Leonard Hofstadter». Sheldon proclama al final su victoria."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 10,
+            "títol": "The Vartabedian Conundrum",
+            "duració": 21,
+            "imatge": "7_2_10.jpg",
+            "sinopsi": "Para todos los propósitos prácticos, Stephanie se muda al apartamento de Leonard y Sheldon, aunque Leonard no parece estar muy convencido. Mientras tanto, Stephanie hace un examen físico a Sheldon, ya que éste se queja de un zumbido en su oreja. Cuando Penny aparece ligera de ropa en el apartamento de los chicos, se dan cuenta que ni Leonard ni Sheldon jamás le hablaron a Stephanie sobre Penny. La mañana no va bien después de eso; Penny le demuestra a Leonard que Stephanie está viviendo con él, y Stephanie le compra a Leonard ropa nueva que él termina odiando.\r\nAl darse cuenta que su relación con Stephanie está yendo muy rápido para él, Leonard le trata de decir a Stephanie que se vaya, pero cada vez que lo intenta, ella lo desvía tratando de tener relaciones sexuales. Mientras tanto, Sheldon se cuela en el hospital para verse a sí mismo, ya que el zumbido no ha parado. Por el momento Leonard regresa al apartamento, Stephanie le ha diagnosticado a Sheldon una inflamación de laringe falsa, y le da instrucciones de no hablar en absoluto a fin de tranquilizar al resto."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 11,
+            "títol": "The Bath Item Gift Hypothesis",
+            "duració": 20,
+            "imatge": "7_2_11.jpg",
+            "sinopsi": "Leonard se reúne con el investigador David Underhill (Michael Trucco), un físico experimental como él. Aunque Leonard envidia a David por ser guapo, encantador, tener buena onda, y ser más exitoso que él, David le propone ayudarlo en su investigación. Sin embargo, la alegría de Leonard por trabajar con David se ve obstaculizada por los celos cuando él conoce a Penny y los dos comienzan a salir. Sin embargo, poco después, Penny rompe con David después de enterarse de que se había casado recientemente.\r\nSheldon se preocupa por la cercanía de las vacaciones de Navidad y no sabe qué regalarle a Penny. Después de decidir sobre una cesta de artículos de baño, él descubre que una amplia selección de ellos está disponible. No estando seguro de lo que le regalará Penny, compra una matriz completa para cubrir todas las contingencias. El regalo de Penny, finalmente, resulta ser una servilleta autografiada y usada por Leonard Nimoy, conteniendo su ADN (para que Sheldon pudiese clonar a su propio Señor Spock). Sheldon considera que el regalo es tan extravagante que le da todas las cestas... y un abrazo."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 12,
+            "títol": "The Killer Robot Instability",
+            "duració": 21,
+            "imatge": "7_2_12.jpg",
+            "sinopsi": "Howard hace enojar a Penny y los duros comentarios de ésta sobre su vida amorosa le envían a la depresión, lo que hace que sus amigos pierdan a su compañero de equipo en una competencia de robots. Posteriormente, cuando Sheldon acepta una lucha poniendo a su robot M.O.N.T.E. (Mobile Omnidirectional Neutralization and Termination Erradicator), contra «The Kripke Krippler» de su compañero de trabajo, Barry Kripke (John Ross Bowie), Leonard trata de recuperar a Howard a su equipo pidiendo a Penny que se disculpe con él.\r\nPenny va a la casa de Howard a disculparse y termina escuchando su historia completa de citas. Después de las palabras de consuelo de Penny, Howard trata de besarla, lo que hace que ella se enfade de nuevo y termine dándole un puñetazo en la cara. Mientras tanto, M.O.N.T.E. es destruido sin remedio. Al final, salvo por la nariz rota, Howard vuelve a la normalidad."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 13,
+            "títol": "The Friendship Algorithm",
+            "duració": 21,
+            "imatge": "7_2_13.jpg",
+            "sinopsi": "Sheldon escucha que Barry Kripke (John Ross Bowie) tiene el control de un ordenador en el laboratorio, así que planea ser su amigo para tener acceso a la computadora. Socialmente inepto, Sheldon tiene problemas para entender cómo hacer un nuevo amigo y sus amigos actuales no son de mucha ayuda al respecto.\r\nDespués de un viaje a la librería, Sheldon usa un libro infantil para ayudarse a diseñar un diagrama de flujo para conseguir nuevos amigos. Este procedimiento «científico» funciona y Sheldon consigue ir de escalada con Kripke. Después, regresan al apartamento, donde Sheldon decide sacar a Raj para tratar de hacer espacio a Kripke. Sin embargo, cuando Kripke revela que no tiene el control de la computadora, Sheldon lo expulsa y admite de nuevo a Raj."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 14,
+            "títol": "The Financial Permeability",
+            "duració": 21,
+            "imatge": "7_2_14.jpg",
+            "sinopsi": "Penny está pasando por dificultades financieras, lo que le resulta en la búsqueda de un nuevo lugar donde vivir. Sheldon, después de discutir sus dificultades, le presta dinero suficiente para cubrir sus necesidades. Esto conduce a la revocación de un papel divertido en el que Sheldon no está particularmente obsesivo acerca de cómo obtener de vuelta el dinero y Penny comienza a mostrar un comportamiento neurótico, reaccionando irritablemente a todo lo que alude a sus problemas monetarios.\r\nDespués de que Leonard se entere de los problemas de Penny, trata de ayudarla a cortar gastos, y en el proceso descubre que su ex-novio Kurt (Brian Wade) le debe una gran suma de dinero. Sin decirle nada a Penny, Leonard y los chicos van a casa de Kurt para tener el dinero, sin éxito. Más tarde, Penny le devuelve el dinero a Sheldon, revelando que Kurt actualmente le había devuelto el dinero. Sin embargo, para gran decepción de Leonard, Kurt no le dijo nada a Penny sobre la visita de Leonard, y en su lugar tomó la oportunidad de regresar con ella."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 15,
+            "títol": "The Maternal Capacitance",
+            "duració": 20,
+            "imatge": "7_2_15.jpg",
+            "sinopsi": "Leonard se preocupa cuando descubre que su madre, la psiquiatra y neurocientífica Beverly Hofstadter (Christine Baranski) viene de visita. Al llegar al edificio, Beverly conoce a Penny y en el momento en que llegan al apartamento de Leonard, Penny se encuentra llorando después de que sus problemas psicosociales de su infancia fuesen analizados por Beverly. Sheldon, por otra parte, desarrolla una relación cómoda con la madre de Leonard, que resulta ser tan estricta y lógica como Sheldon.\r\nHoward y Raj también conocen a Beverly, pero después de enterarse de que Howard todavía vive con su madre y que Raj no puede hablarle a las mujeres, declara que están viviendo «una relación homosexual». Más tarde, Leonard va a hablar con Penny y ambos buscan consuelo entre sí, discutiendo sus infancias con sus padres. Mientras se van emborrachando, Penny y Leonard están a punto de tener sexo, pero Leonard arruina el momento usando su psicología y teniendo en cuenta que él está teniendo sexo con su madre y ella con su padre. Disgustada y en shock, Penny echa a Leonard de su apartamento."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 16,
+            "títol": "The Cushion Saturation",
+            "duració": 21,
+            "imatge": "7_2_16.jpg",
+            "sinopsi": "Un juego de paintball lleva a un romance entre Howard y la exnovia de Leonard, Leslie Winkle (Sara Gilbert). En el apartamento, Penny accidentalmente dispara la pistola de paintball en el cojín de Sheldon en el sofá y ella y Leonard tienen dificultades para tratar de limpiarlo. Naturalmente, Sheldon enloquece cuando lo descubre.\r\nMientras tanto, Leslie y Howard comienzan a dormir juntos y ella es capaz de asegurar fondos para su trabajo, e incluso invita a Howard a un viaje para un gran proyecto. Sin embargo, esto resulta ser sólo una manera de Leslie de controlar a Howard. Aunque inicialmente era reacio en participar en este tipo de relación, Howard más tarde acepta encantado su papel de «juguete sexual». Al final, Sheldon todavía no está satisfecho con el paso del cojín por la tintorería, y como venganza, dispara a Penny, que estaba en su equipo en el juego de paintball."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 17,
+            "títol": "The Terminator Decoupling",
+            "duració": 21,
+            "imatge": "7_2_17.jpg",
+            "sinopsi": "Los chicos hacen un viaje en tren a San Francisco (California) para asistir a una conferencia donde el invitado es el físico George Smoot, ganador del Premio Nobel de Física de 2006. Sin embargo, el viaje se hace más emocionante cuando los chicos se dan cuenta que la actriz Summer Glau, de la serie de televisión Terminator: Las crónicas de Sarah Connor está a bordo.\r\nDejando atrás su timidez mientras bebe cerveza, Raj es el primero en hablar con Summer. Sin embargo, cuando la cerveza resulta ser sin alcohol, Raj vuelve a su habitual timidez y se retira avergonzado. Howard luego se acerca, pero asusta a Summer con sus sueños salvajes. Leonard eventualmente tiene su oportunidad, pero Summer se baja del tren antes de que se pueda presentar. Mientras tanto, Sheldon se da cuenta que olvidó su unidad flash de USB con un documento que quiere mostrarle a Smoot, y necesita a Penny para encontrarlo en su habitación y enviárselo por email a él. Al final, el Smoot no está impresionado con la propuesta de Sheldon de la investigación, preguntándole «Con todo respeto, Dr. Cooper, ¿está drogado?»"
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 18,
+            "títol": "The Work Song Nanocluster",
+            "duració": 20,
+            "imatge": "7_2_18.jpg",
+            "sinopsi": "Penny desarrolla un broche para cabello, llamado «Penny Blossom» (Penny-flor o Flor de Penny), el cual espera que sea un negocio rentable en casa. Sheldon pronto señala los fallos en su proceso de producción y le ayuda a desarrollar una línea de montaje. Leonard, Howard y Raj también ayudan con sus ideas para la eficiencia, producción y comercialización.\r\nLeonard diseña un sitio web de ventas y de inmediato reciben un pedido de mil flores de una alianza LGTBI de Nueva Jersey. A pesar de su felicidad inicial, se dan cuenta de que Leonard incluye una opción de enviar el pedido en un día en la página web, así que el quinteto tiene que trabajar toda la noche para cumplir la orden. Sin embargo, a la mañana siguiente, descubren que el mismo grupo que pidió las mil flores realizó un nuevo pedido de igual cantidad, lo que lleva a todos al agotamiento."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 19,
+            "títol": "The Dead Hooker Juxtaposition",
+            "duració": 20,
+            "imatge": "7_2_19.jpg",
+            "sinopsi": "Los antiguos inquilinos del apartamento superior del de Sheldon y Leonard se mudan y es ocupado por una rubia atractiva llamada Alicia (Valeria Azlynn). Alicia, al igual que Penny, es una aspirante a actriz, pero es más exitosa, obteniendo un papel en la serie de televisión CSI. Naturalmente, los chicos se quedan fascinados con Alicia y ella toma ventaja de esto haciendo que trabajen para ella.\r\nPenny se pone celosa pensando que Alicia la está suplantando en la atención de los chicos. Posteriormente, Penny trata de ganar a sus amigos de vuelta comprándoles comida china, ofreciéndose a ver Battlestar Galactica, e incluso memorizando una broma de física cuántica. Alicia señala que Penny usa la misma rutina con los chicos que ella, lo que hace que Penny se enfurezca y las dos se peleen en el vestíbulo, acabando Penny con un ojo morado y Howard excitado. Al final, Penny recupera a los chicos, mientras que se escucha a Alicia teniendo sexo con uno de los productores de CSI."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 20,
+            "títol": "The Hofstadter Isotope",
+            "duració": 20,
+            "imatge": "7_2_20.jpg",
+            "sinopsi": "Penny necesita un regalo para el cumpleaños de su sobrino, así que acompaña a los chicos a la tienda de cómics. Allí, Penny conoce al propietario, Stuart (Kevin Sussman), quien se las arregla para preguntarle si quiere salir con él. Sintiéndose celoso por la situación, Leonard pide a Raj y Howard que le lleven a un bar con mujeres.\r\nLa cita de Stuart con Penny va bien, pero son interrumpidos por Sheldon que comienza una discusión sobre quién debería ser el sucesor de Batman y si Bruce Wayne es asesinado (Sheldon defiende a Dick Grayson mientras que Stuart a Jason Todd). Sheldon gana la discusión cuando Stuart comenta que está cansado y necesita irse y descubre que Penny se ha dormido del aburrimiento. Mientras tanto, en el bar, Raj es el único que tiene éxito en estar con una chica."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 21,
+            "títol": "The Vegas Renormalization",
+            "duració": 21,
+            "imatge": "7_2_21.jpg",
+            "sinopsi": "Leslie Winkle (Sarah Gilbert) termina su relación de «amigos con beneficios» con Howard, lo que le deprime. Leonard y Raj deciden entonces llevarlo a un viaje a Las Vegas para animarlo. Mientras tanto, Sheldon, quien se ha negado a ir al viaje, está listo para pasar el fin de semana solo.\r\nEn Las Vegas, una prostituta llamada Mikaela (Jodi Lyn O'Keefe) se acerca a Raj y él y Leonard deciden contratarla para levantarle el ánimo a Howard. Howard pronto descubre que es una prostituta, pero no obstante le da las gracias a Leonard y Raj. Mientras tanto, Sheldon, después de haber olvidado las llaves de su apartamento, es obligado a pasar la noche en el apartamento de Penny. Al final, Sheldon cree que tiene una mejor comprensión del término «amigos con beneficios»."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 22,
+            "títol": "The Classified Materials Turbulence",
+            "duració": 18,
+            "imatge": "7_2_22.jpg",
+            "sinopsi": "Howard celebra, comprando cómics a todos sus amigos, el lanzamiento de su última invención: un sistema de eliminación de residuos humanos en gravedad cero (un baño espacial) para la Estación Espacial Internacional. Mientras, en la tienda de cómics, Stuart (Kevin Sussman) le dice a Leonard que va a tener una segunda cita con Penny y le pide consejo. Leonard deliberadamente evita la pregunta de Stuart y le da malos consejos.\r\nAl día siguiente, Leonard se siente culpable y se dirige a disculparse con Stuart. Stuart revela que la cita le fue bien, hasta que él y Penny comenzaron a besarse y ella accidentalmente le llamó Leonard. Mientras tanto, Howard descubre que cometió un error que causará que el inodoro falle y los chicos se reúnen para tratar de arreglarlo. Al final, los astronautas de la Estación Espacial Internacional van a un paseo espacial imprevisto, dando a entender que probaron el invento y que, tal y como se esperaba, fracasó."
+        },
+        {
+            "id_serie": 7,
+            "temporada": 2,
+            "numero": 23,
+            "títol": "The Monopolar Expedition",
+            "duració": 21,
+            "imatge": "7_2_23.jpg",
+            "sinopsi": "Sheldon gana una beca de la Fundación Nacional de Ciencias para ir a una expedición de tres meses en el Polo Norte para detectar monopolos magnéticos y demostrar la validez de su teoría de cuerdas. Después de algunas vacilaciones, decide ir y quiere que Leonard, Howard y Raj le acompañen. Aunque en un principio son reacios al tener que pasar tres meses encerrados en una cabina con Sheldon, aceptan.\r\nPara prepararse para el frío, Sheldon le pide a Penny que le deje entrar en la nevera de la fábrica de pasteles. Cuando Penny descubre que Leonard también va, parece estar molesta. Más tarde, ella le da un snuggie como regalo, le dice que le extrañará y le da un abrazo largo. En la mañana de la ida de los chicos, Leonard le pregunta a Penny sobre el abrazo largo, pero ella no revela sus sentimientos por él. Después de que ellos se van, Penny admite: Significa que me gustaría que no vayas..."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 1,
+            "títol": "Una Rick-grieta en el tiempo",
+            "duració": 23,
+            "imatge": "0_2_1.jpg",
+            "sinopsi": "Rick, Morty y Summer han pasado meses viviendo congelados. Cuando Rick decide descongelar el tiempo, aparece una dimensión paralela."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 2,
+            "títol": "Huida a Mortynoche",
+            "duració": 23,
+            "imatge": "0_2_2.jpg",
+            "sinopsi": "Morty intenta detener a un alienígena asesino al que Rick le ha vendido un arma para pasar la tarde en un salón de videojuegos."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 3,
+            "títol": "Asimilación autoerótica",
+            "duració": 23,
+            "imatge": "0_2_3.jpg",
+            "sinopsi": "Rick, Morty y Summer se topan con Unidad, una mente colmena con la que Rick tuvo una relación. Summer está en contra de que Unidad someta a un planeta alienígena."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 4,
+            "títol": "Total Rick-tal",
+            "duració": 22,
+            "imatge": "0_2_4.jpg",
+            "sinopsi": "La familia lucha contra un parásito que implanta recuerdos falsos en sus mentes. Incluso llegan a plantearse si su amigo el señor Ojetesucio es real."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 5,
+            "títol": "Estamos cerdis",
+            "duració": 23,
+            "imatge": "0_2_5.jpg",
+            "sinopsi": "Rick y Morty acuden a Ice-T para que los ayude a componer una canción, pues quieren presentarse a un concurso musical intergaláctico."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 6,
+            "títol": "Los Rick deben de estar locos",
+            "duració": 23,
+            "imatge": "0_2_6.jpg",
+            "sinopsi": "A Rick se le avería el coche y se mete con Morty en la batería, donde ha creado todo un universo en miniatura."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 7,
+            "títol": "Golpe en el pequeño Sánchez",
+            "duració": 23,
+            "imatge": "0_2_7.jpg",
+            "sinopsi": "Summer le pide a Rick que se convierta en adolescente para protegerla de los vampiros del instituto. Beth y Jerry van a terapia de pareja en otro planeta."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 8,
+            "títol": "Cable interdimensional 2: tentando al destino",
+            "duració": 23,
+            "imatge": "0_2_8.jpg",
+            "sinopsi": "Jerry se come un helado que Rick usaba para desarrollar una peligrosa bacteria y lo llevan a un hospital alienígena. Rick manipula la televisión del centro."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 9,
+            "títol": "Mira quién purga también",
+            "duració": 22,
+            "imatge": "0_2_9.jpg",
+            "sinopsi": "Rick y Morty llegan a un planeta donde los ciudadanos pueden delinquir impunemente, incluso cometer asesinatos, durante toda una noche."
+        },
+        {
+            "id_serie": 0,
+            "temporada": 2,
+            "numero": 10,
+            "títol": "De squanch en squanch",
+            "duració": 23,
+            "imatge": "0_2_10.jpg",
+            "sinopsi": "Jerry aparece en el planeta donde se celebra la boda de Persona Pájaro y Tammy. Ahora, toda la familia tendrá que asistir a la desafortunada ceremonia."
+        }
+    ]
+}
