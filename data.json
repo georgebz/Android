@@ -293,6 +293,7 @@
             "numero": 1,
             "títol": "Chapter 1",
             "duració": 57,
+            "valoracio": 8.5,
             "imatge": "hoc_c1.jpg",
             "sinopsi": "When the newly elected President reneges on a promise, Frank and Claire decide to sever all allegiances and toss the rules out the window."
         },
@@ -302,6 +303,7 @@
             "numero": 2,
             "títol": "Chapter 2",
             "duració": 50,
+            "valoracio": 8,
             "imatge": "hoc_c2.jpg",
             "sinopsi": "Frank uses a young reporter, Zoe Barnes, to spin a story that puts the White House on its heels. Claire makes a cold-blooded move at work."
         },
@@ -311,6 +313,7 @@
             "numero": 3,
             "títol": "Chapter 3",
             "duració": 51,
+            "valoracio": 5.5,
             "imatge": "hoc_c3.jpg",
             "sinopsi": "Frank must leave union negotiations to deal with a crisis in his home district. Zoe negotiates the politics of being a journalist on the rise."
         },
@@ -320,6 +323,7 @@
             "numero": 4,
             "títol": "Chapter 4",
             "duració": 49,
+            "valoracio": 7.5,
             "imatge": "hoc_c4.jpg",
             "sinopsi": "Frank shakes down the Congressional leadership. Peter Russo must choose between politics and family."
         },
@@ -329,6 +333,7 @@
             "numero": 5,
             "títol": "Chapter 5",
             "duració": 53,
+            "valoracio": 5,
             "imatge": "hoc_c5.jpg",
             "sinopsi": "Frank's fight over the Education Bill threatens Claire's own ambitions. Zoe mixes work and play."
         },
@@ -338,6 +343,7 @@
             "numero": 6,
             "títol": "Chapter 6",
             "duració": 51,
+            "valoracio": 8,
             "imatge": "hoc_c6.jpg",
             "sinopsi": "Frank strikes back at the striking teachers. Claire is caught off guard by a deathbed confession."
         },
@@ -347,6 +353,7 @@
             "numero": 7,
             "títol": "Chapter 7",
             "duració": 54,
+            "valoracio": 7,
             "imatge": "hoc_c7.jpg",
             "sinopsi": "Frank wins a major battle, but doesn't pause to rest on his laurels. Peter must face his past. Stamper hushes a secret."
         },
@@ -356,6 +363,7 @@
             "numero": 1,
             "títol": "Capítulo 14",
             "duració": 51,
+            "valoracio": 6,
             "imatge": "hoc_c14.jpg",
             "sinopsi": "El matrimonio Underwood afronta dos problemas que podrían arruinar sus planes; Frank prepara al que será su sustituto como parlamentario, y Claire pasa a la ofensiva."
         },
@@ -365,6 +373,7 @@
             "numero": 2,
             "títol": "Capítulo 15",
             "duració": 50,
+            "valoracio": 6.5,
             "imatge": "hoc_c15.jpg",
             "sinopsi": "Frank tiene a China en el punto de mira; Claire afronta un doloroso trauma de su pasado, y Lucas Goodwin trata de averiguar la verdad."
         },
@@ -374,6 +383,7 @@
             "numero": 3,
             "títol": "Capítulo 16",
             "duració": 52,
+            "valoracio": 5.5,
             "imatge": "hoc_c16.jpg",
             "sinopsi": "La tensión entre Frank y Raymond Tusk aumenta a medida que la situación con China se deteriora. Frank se enfrenta a los republicanos en el Senado."
         },
@@ -383,6 +393,7 @@
             "numero": 4,
             "títol": "Capítulo 17",
             "duració": 53,
+            "valoracio": 7,
             "imatge": "hoc_c17.jpg",
             "sinopsi": "Un incidente en el Capitolio deja atrapados a Frank y al resentido Donald Blythe. Claire concede una entrevista en directo que provoca un terremoto mediático."
         },
@@ -392,6 +403,7 @@
             "numero": 1,
             "títol": "El himno nacional",
             "duració": 44,
+            "valoracio": 7.5,
             "imatge": "blackM_t1_c1.jpg",
             "sinopsi": "El primer ministro Michael Callow se enfrenta a un dilema impactante cuando la princesa Susannah, un miembro muy querido de la familia real, es secuestrada."
         },
@@ -401,6 +413,7 @@
             "numero": 2,
             "títol": "15 millones de méritos",
             "duració": 62,
+            "valoracio": 8,
             "imatge": "blackM_t1_c2.jpg",
             "sinopsi": "Tras fracasar al intentar impresionar a los jueces en una competición de canto, una mujer tiene que hacer actuaciones degradantes o regresar a su vida de esclava."
         },
@@ -410,6 +423,7 @@
             "numero": 3,
             "títol": "Toda tu historia",
             "duració": 49,
+            "valoracio": 8.5,
             "imatge": "blackM_t1_c3.jpg",
             "sinopsi": "En un futuro cercano, todo el mundo tendrá acceso a un implante de memoria que grabe todo lo que los humanos hagan, vean y oigan."
         },
@@ -419,6 +433,7 @@
             "numero": 1,
             "títol": "Ahora mismo vuelvo",
             "duració": 49,
+            "valoracio": 9,
             "imatge": "1_2_1.jpg",
             "sinopsi": "Después de enterarse de un nuevo servicio que permite a la gente estar en contacto con los muertos, Martha, solitaria y afligida, conecta con su difunto novio."
         },
@@ -428,6 +443,7 @@
             "numero": 2,
             "títol": "Oso blanco",
             "duració": 43,
+            "valoracio": 7,
             "imatge": "1_2_2.jpg",
             "sinopsi": "Victoria se despierta y no puede recordar nada de su vida. Todo el mundo con el que se encuentra, se niega a comunicarse con ella."
         },
@@ -437,6 +453,7 @@
             "numero": 3,
             "títol": "El momento Waldo",
             "duració": 44,
+            "valoracio": 8.5,
             "imatge": "1_2_3.jpg",
             "sinopsi": "Un cómico fracasado que pone la voz a un oso de dibujos animados, se ve arrastrado a la política cuando los ejecutivos quieren que el oso se presente como candidato."
         },
@@ -446,6 +463,7 @@
             "numero": 4,
             "títol": "Blanca Navidad",
             "duració": 74,
+            "valoracio": 6,
             "imatge": "1_2_4.jpg",
             "sinopsi": "En una base remota aislada por la nieve, dos hombres cuentan varias historias sobre estragos causados por la tecnología durante unas navidades."
         },
@@ -455,6 +473,7 @@
             "numero": 1,
             "títol": "Caida en picado",
             "duració": 63,
+            "valoracio": 4.5,
             "imatge": "1_3_1.jpg",
             "sinopsi": "Desesperada por aumentar su popularidad en las redes sociales, una mujer acude ilusionada a una boda de alto copete. Pero el viaje no sale como tenía previsto"
         },
@@ -464,6 +483,7 @@
             "numero": 2,
             "títol": "Playtesting",
             "duració": 57,
+            "valoracio": 3.5,
             "imatge": "1_3_2.jpg",
             "sinopsi": "Un viajero estadounidense que anda mal de dinero se apunta a ser tester de un nuevo sistema de videojuegos. Pronto descubrirá que la ficción a veces es demasiado real."
         },
@@ -473,6 +493,7 @@
             "numero": 3,
             "títol": "Cállate y baila",
             "duració": 53,
+            "valoracio": 6.5,
             "imatge": "1_3_3.jpg",
             "sinopsi": "Un virus ha infectado su ordenador y ahora se enfrenta a una terrible decisión: o sigue las órdenes que le mandan por SMS o sus secretos más íntimos saldrán a la luz."
         },
@@ -482,6 +503,7 @@
             "numero": 4,
             "títol": "San Junípero",
             "duració": 61,
+            "valoracio": 8,
             "imatge": "1_3_4.jpg",
             "sinopsi": "Costa de California, 1987. Una tímida joven y una chica alegre y extrovertida sellan un vínculo muy fuerte, que parece desafiar las leyes del tiempo y del espacio."
         },
@@ -491,6 +513,7 @@
             "numero": 5,
             "títol": "La ciencia de matar",
             "duració": 60,
+            "valoracio": 9,
             "imatge": "1_3_5.jpg",
             "sinopsi": "Después de su primera batalla con un esquivo enemigo, un soldado empieza a tener sensaciones extrañas y fallos técnicos muy raros."
         },
@@ -500,6 +523,7 @@
             "numero": 6,
             "títol": "Odio nacional",
             "duració": 90,
+            "valoracio": 5,
             "imatge": "1_3_6.jpg",
             "sinopsi": "Una periodista muere envuelta en la polémica en las redes sociales. Al investigar, una veterana policía y su discípula, experta en tecnología, descubren algo espantoso."
         },
@@ -509,6 +533,7 @@
             "numero": 1,
             "títol": "USS Callister",
             "duració": 77,
+            "valoracio": 6,
             "imatge": "1_4_1.jpg",
             "sinopsi": "El comandante Robert Daly dirige a su tripulación con sabiduría y coraje, pero una nueva recluta descubrirá que en la nave USS Callister no todo es lo que parece."
         },
@@ -518,6 +543,7 @@
             "numero": 2,
             "títol": "Arkangel",
             "duració": 52,
+            "valoracio": 4.5,
             "imatge": "1_4_2.jpg",
             "sinopsi": "Una madre soltera preocupada por la seguridad de su hija decide implantarle un dispositivo de alta tecnología que monitoriza su localización. Y muchas otras cosas."
         },
@@ -527,6 +553,7 @@
             "numero": 3,
             "títol": "Cocodrilo",
             "duració": 59,
+            "valoracio": 5,
             "imatge": "1_4_3.jpg",
             "sinopsi": "Mia es una arquitecta que debe guardar un terrible secreto mientras una investigadora de seguros examina los recuerdos de los testigos de un accidente."
         },
@@ -536,6 +563,7 @@
             "numero": 4,
             "títol": "Hang de DJ",
             "duració": 52,
+            "valoracio": 3.5,
             "imatge": "1_4_4.jpg",
             "sinopsi": "Cuando Frank y Amy se conocen gracias a un programa de citas que pone fecha de caducidad a las relaciones, pronto empiezan a cuestionarse la lógica del sistema."
         },
@@ -545,6 +573,7 @@
             "numero": 5,
             "títol": "Cabeza de metal",
             "duració": 41,
+            "valoracio": 4.5,
             "imatge": "1_4_5.jpg",
             "sinopsi": "En un almacén abandonado, unos carroñeros en busca de víveres se topan con un implacable enemigo. Si quieren sobrevivir, deberán escapar a través de un inhóspito páramo."
         },
@@ -554,6 +583,7 @@
             "numero": 6,
             "títol": "Black Museum",
             "duració": 69,
+            "valoracio": 6,
             "imatge": "1_4_6.jpg",
             "sinopsi": "Una joven descubre en plena autopista un museo que contiene objetos criminológicos supuestamente auténticos... y que ofrece una perturbadora atracción principal."
         },
@@ -563,6 +593,7 @@
             "numero": 1,
             "títol": "Striking vipers",
             "duració": 62,
+            "valoracio": 8.5,
             "imatge": "1_5_1.jpg",
             "sinopsi": "Cuando Danny y Karl, dos antiguos amigos de la universidad, se reencuentran en un juego de realidad virtual, sus partidas nocturnas tendrán consecuencias inesperadas."
         },
@@ -572,6 +603,7 @@
             "numero": 2,
             "títol": "Añicos",
             "duració": 70,
+            "valoracio": 7.5,
             "imatge": "1_5_2.jpg",
             "sinopsi": "Un conductor de VTC provoca una crisis internacional cuando secuestra a un empleado de una empresa de redes sociales en Londres."
         },
@@ -581,6 +613,7 @@
             "numero": 3,
             "títol": "Rachel,Jack y Ashley Too",
             "duració": 67,
+            "valoracio": 8,
             "imatge": "1_5_3.jpg",
             "sinopsi": "Una adolescente solitaria se obsesiona con una muñeca robot basada en su ídolo del pop, Ashley O, justo cuando la vida de la verdadera Ashley empieza a desmoronarse."
         },
@@ -590,6 +623,7 @@
             "numero": 1,
             "títol": "Pilot",
             "duració": 22,
+            "valoracio": 6,
             "imatge": "7_1_1.jpg",
             "sinopsi": "Penny, la nueva y guapa vecina, deja totalmente impresionado a Leonard, un científico asocial, para desgracia de su compañero de piso, Sheldon."
         },
@@ -599,6 +633,7 @@
             "numero": 2,
             "títol": "The Big Bran Hypothesis",
             "duració": 21,
+            "valoracio": 8.5,
             "imatge": "7_1_2.jpg",
             "sinopsi": "Leonard se ofrece para recoger un paquete en nombre de Penny, pero las cosas no salen bien cuando Sheldon siente la necesidad de limpiar el apartamento de su vecina."
         },
@@ -608,6 +643,7 @@
             "numero": 3,
             "títol": "The Fuzzy Boots Corollary",
             "duració": 21,
+            "valoracio": 9,
             "imatge": "7_1_3.jpg",
             "sinopsi": "Leonard se queda deshecho cuando ve a Penny besarse con otro chico; por ello decide pedirle que salga con él con el pretexto de cenar con todos los chicos."
         },
@@ -617,6 +653,7 @@
             "numero": 4,
             "títol": "The Luminous Fish Effect",
             "duració": 20,
+            "valoracio": 8,
             "imatge": "7_1_4.jpg",
             "sinopsi": "Leonard llama a la madre de Sheldon cuando este se obsesiona con los ponchos y la iluminación de los peces cuando se queda sin trabajo."
         },
@@ -626,6 +663,7 @@
             "numero": 5,
             "títol": "The Hamburguer Postulate",
             "duració": 20,
+            "valoracio": 8.5,
             "imatge": "7_1_5.jpg",
             "sinopsi": "Después de ponerse de acuerdo con Leslie, Leonard se disgusta cuando se entera de que ella solo está interesada en tener sexo solo una noche."
         },
@@ -635,6 +673,7 @@
             "numero": 6,
             "títol": "The Middle-earth Paradigm",
             "duració": 20,
+            "valoracio": 7.5,
             "imatge": "7_1_6.jpg",
             "sinopsi": "Los chicos salen de la zona de confort cuando aceptan una invitación a la fiesta de Halloween de Penny, donde Leonard tiene un encontronazo con la expareja de Penny."
         },
@@ -644,6 +683,7 @@
             "numero": 7,
             "títol": "The Dumpling Paradox",
             "duració": 21,
+            "valoracio": 5.5,
             "imatge": "7_1_7.jpg",
             "sinopsi": "Cuando la amiga de Penny pasa la noche en su apartamento con Howard, Penny tiene que quedarse a dormir con los chicos y convertirse en el cuarto miembro del equipo Halo."
         },
@@ -653,6 +693,7 @@
             "numero": 8,
             "títol": "The Grasshopper Experiment",
             "duració": 20,
+            "valoracio": 5,
             "imatge": "7_1_8.jpg",
             "sinopsi": "Tras organizarle una cita, el tímido de Raj se da cuenta de que puede hablarle a las mujeres cuando bebe. Pero se pasa con las copas y su cita se marcha con Sheldon."
         },
@@ -662,6 +703,7 @@
             "numero": 9,
             "títol": "The Cooper-Hofstader Polarization",
             "duració": 19,
+            "valoracio": 6.5,
             "imatge": "7_1_9.jpg",
             "sinopsi": "A Leonard y a Sheldon los invitan a una charla para presentar la investigación que realizaron juntos, pero Sheldon no quiere participar."
         },
@@ -671,6 +713,7 @@
             "numero": 10,
             "títol": "The Loobenfeld Decay",
             "duració": 20,
+            "valoracio": 8,
             "imatge": "7_1_10.jpg",
             "sinopsi": "Leonard y Sheldon mienten para evitar escuchar a una desafinada Penny cantar, pero Sheldon va más allá e inventa a un primo adicto a las drogas."
         },
@@ -680,6 +723,7 @@
             "numero": 11,
             "títol": "The Pancake Batter Anomaly",
             "duració": 21,
+            "valoracio": 7.5,
             "imatge": "7_1_11.jpg",
             "sinopsi": "Cuando Sheldon, con su obsesión por los gérmenes, se enferma, los chicos se quitan de en medio y será Penny la que cuide del exigente e insoportable paciente."
         },
@@ -689,6 +733,7 @@
             "numero": 12,
             "títol": "The Jerusalem duality",
             "duració": 20,
+            "valoracio": 5,
             "imatge": "7_1_12.jpg",
             "sinopsi": "Un genio de 15 años aparta a Sheldon de la investigación física, de modo que se propone ganar el Premio Nobel con la réplica de Jerusalén en México."
         },
@@ -698,6 +743,7 @@
             "numero": 13,
             "títol": "The Bat Jar Conjecture",
             "duració": 21,
+            "valoracio": 6.5,
             "imatge": "7_1_13.jpg",
             "sinopsi": "Los chicos echan a Sheldon del equipo de física cansados de su fanfarronería. Leslie lo reemplazará y Sheldon decide formar un equipo muy variopinto"
         },
@@ -707,6 +753,7 @@
             "numero": 14,
             "títol": "The Nerdvanna Annihilation",
             "duració": 20,
+            "valoracio": 4.5,
             "imatge": "7_1_14.jpg",
             "sinopsi": "Penny se enfada con los chicos cuando compran un modelo a tamaño real de una máquina del tiempo, lo que lleva a Leonard a deshacerse de todos sus coleccionables."
         },
@@ -716,6 +763,7 @@
             "numero": 15,
             "títol": "The Pork Chop Indeterminacy",
             "duració": 21,
+            "valoracio": 5,
             "imatge": "7_1_15.jpg",
             "sinopsi": "Leonard, Howard y Raj se interesan por la hermana gemela de Sheldon, Missy, pero Sheldon considera que ninguno de los tres son merecedores de su hermana."
         },
@@ -725,6 +773,7 @@
             "numero": 16,
             "títol": "The Peanut Reaction",
             "duració": 19,
+            "valoracio": 8.5,
             "imatge": "7_1_16.jpg",
             "sinopsi": "Penny planea una fiesta de cumpleaños sorpresa para Leonard, pero las cosas se tuercen cuando Sheldon se olvida del regalo y a Howard le sientan mal los cacahuetes."
         },
@@ -734,6 +783,7 @@
             "numero": 17,
             "títol": "The Tangerine Factor",
             "duració": 20,
+            "valoracio": 6.5,
             "imatge": "7_1_17.jpg",
             "sinopsi": "Después de romper Penny con su novio, acepta salir con Leonard y ambos piden consejo a Sheldon."
         },
@@ -743,6 +793,7 @@
             "numero": 1,
             "títol": "Piloto",
             "duració": 22,
+            "valoracio": 7,
             "imatge": "0_1_1.jpg",
             "sinopsi": "Rick se lleva a Morty a otra dimensión en busca de semillas de \"mega-árboles\". Mientras, Jerry y Beth discuten sobre la influencia de Rick sobre su hijo."
         },
@@ -752,6 +803,7 @@
             "numero": 2,
             "títol": "El cortador de césped perruno",
             "duració": 22,
+            "valoracio": 6,
             "imatge": "0_1_2.jpg",
             "sinopsi": "Rick crea un dispositivo para hacer más listo al perro de la familia, con resultados desastrosos. Rick y Morty invaden los sueños del profesor de matemáticas de Morty."
         },
@@ -761,6 +813,7 @@
             "numero": 3,
             "títol": "Parque anatómico",
             "duració": 22,
+            "valoracio": 6.5,
             "imatge": "0_1_3.jpg",
             "sinopsi": "Morty acaba en un disparatado parque temático de enfermedades infecciosas que hay dentro de un sin techo. Los padres de Jerry presentan a su nuevo amante común."
         },
@@ -770,6 +823,7 @@
             "numero": 4,
             "títol": "Los alienígenas de los giros inesperados",
             "duració": 21,
+            "valoracio": 8,
             "imatge": "0_1_4.jpg",
             "sinopsi": "Los alienígenas envían a Rick, Morty y Jerry a una realidad alternativa. Rick trata de encontrar una salida, mientras que Jerry propone eslóganes para vender manzanas."
         },
@@ -779,6 +833,7 @@
             "numero": 5,
             "títol": "La misión de los meeseeks",
             "duració": 21,
+            "valoracio": 9,
             "imatge": "0_1_5.jpg",
             "sinopsi": "Morty se ha hartado de las locuras de Rick, así que emprende una aventura supuestamente menos peligrosa. Jerry invoca unas criaturas para que le ayuden a jugar al golf."
         },
@@ -788,6 +843,7 @@
             "numero": 6,
             "títol": "Poción de Rick n.º9",
             "duració": 22,
+            "valoracio": 5.5,
             "imatge": "0_1_6.jpg",
             "sinopsi": "Una poción creada para que una chica se sienta atraída por Morty se vuelve vírica e infecta la Tierra. Rick tendrá que solucionar el desastre... con otro desastre."
         },
@@ -797,6 +853,7 @@
             "numero": 7,
             "títol": "Educando a Gazorpazorp",
             "duració": 22,
+            "valoracio": 6,
             "imatge": "0_1_7.jpg",
             "sinopsi": "Cuando Morty tiene un hijo con una robot sexual, Rick y Summer viajan al planeta de la robot, donde el niño se hace adulto en cuestión de días."
         },
@@ -806,6 +863,7 @@
             "numero": 8,
             "títol": "Sesenta Rick-nutos",
             "duració": 23,
+            "valoracio": 4,
             "imatge": "0_1_8.jpg",
             "sinopsi": "Harto de lo que echan por la tele, Rick instala cable para sintonizar programas de otras dimensiones. Todos se ponen unas gafas especiales para ver sus yos alternativos."
         },
@@ -815,6 +873,7 @@
             "numero": 9,
             "títol": "Cosas necesarias",
             "duració": 23,
+            "valoracio": 8.5,
             "imatge": "0_1_9.jpg",
             "sinopsi": "A Rick no le convence el nuevo trabajo de Summer en una tienda regentada por el diablo. Jerry y Morty discuten sobre si Plutón es un planeta o no y acaban viajando allí."
         },
@@ -824,6 +883,7 @@
             "numero": 10,
             "títol": "Encuent-Ricks en la Rick-cera fase",
             "duració": 23,
+            "valoracio": 8,
             "imatge": "0_1_10.jpg",
             "sinopsi": "Rick está desayunando a su aire cuando un grupo de Ricks alternativos lo secuestran y lo llevan ante los tribunales acusado de crímenes contra los Ricks."
         },
@@ -833,6 +893,7 @@
             "numero": 11,
             "títol": "Ricksy Business",
             "duració": 23,
+            "valoracio": 7,
             "imatge": "0_1_11.jpg",
             "sinopsi": "Cuando Jerry y Beth se van a participar en una recreación del hundimiento del Titanic, Rick y Summer montan una fiesta que se les va de las manos."
         },
@@ -842,6 +903,7 @@
             "numero": 1,
             "títol": "0_hellofriend.mov",
             "duració": 62,
+            "valoracio": 7.6,
             "imatge": "18_1_1.jpg",
             "sinopsi": "A notorious hacker takes an interest in cyber security engineer and vigilante styled computer hacker Elliot, while an evil corporation is hacked."
         },
@@ -851,6 +913,7 @@
             "numero": 2,
             "títol": "1_ones-and-zer0es.mpeg",
             "duració": 48,
+            "valoracio": 8.2,
             "imatge": "18_1_2.jpg",
             "sinopsi": "Elliot is hesitant about fsociety; Elliot is offered a new job; Elliot worries about Shayla's association with Fernando Vera; Ollie is given a CD outside of Allsafe; Mr. Robot makes Elliot talk about his father."
         },
@@ -860,6 +923,7 @@
             "numero": 3,
             "títol": "2_d3bug.mkv",
             "duració": 46,
+            "valoracio": 8,
             "imatge": "18_1_3.jpg",
             "sinopsi": "Elliot tries to live a bug-free life, but is quickly drawn back in; Tyrell takes matters into his own hands when the CTO position becomes available; Ollie gets blackmailed; Gideon starts getting suspicious of the infected server."
         },
@@ -869,6 +933,7 @@
             "numero": 4,
             "títol": "3_da3m0ns.mp4",
             "duració": 46,
+            "valoracio": 6.8,
             "imatge": "18_1_4.jpg",
             "sinopsi": "While dealing with his withdrawal, Elliot suffers a series of hallucinations about his life, while Shayla helps Angela take an unexpected trip."
         },
@@ -878,6 +943,7 @@
             "numero": 5,
             "títol": "4_3xpl0its.wmv",
             "duració": 45,
+            "valoracio": 8,
             "imatge": "18_1_5.jpg",
             "sinopsi": "Fsociety attempts to penetrate Steel Mountain, the most secure data facility in America, while Angela makes an important decision."
         },
@@ -887,6 +953,7 @@
             "numero": 6,
             "títol": "5_br4ve-trave1er.asf ",
             "duració": 45,
+            "valoracio": 7,
             "imatge": "18_1_6.jpg",
             "sinopsi": "Elliot attempts to hack Vera out of jail in order to save someone he cares about; Tyrell's \"game\" gets crazy; and Angela digs deeper into her mother's death."
         },
@@ -896,6 +963,7 @@
             "numero": 7,
             "títol": "6_v1ew-s0urce.flv",
             "duració": 45,
+            "valoracio": 6.5,
             "imatge": "18_1_7.jpg",
             "sinopsi": "Elliot misses Shayla. Angela makes a deal with Colby. Sharon Knowles has an encounter with Tyrell."
         },
@@ -905,6 +973,7 @@
             "numero": 8,
             "títol": "7_wh1ter0se.m4v",
             "duració": 45,
+            "valoracio": 6,
             "imatge": "18_1_8.jpg",
             "sinopsi": "Allsafe is hacked and Elliot is meeting White Rose. Tyrell is interrogated by the police and Elliot remembers who he really is."
         },
@@ -914,6 +983,7 @@
             "numero": 9,
             "títol": "8_m1rr0r1ng.qt ",
             "duració": 49,
+            "valoracio": 8,
             "imatge": "18_1_9.jpg",
             "sinopsi": "Elliot has to face the challenges of his past, and become accustomed to his new found family."
         },
@@ -923,6 +993,7 @@
             "numero": 1,
             "títol": "0_unm4sk-pt1.ct",
             "duració": 41,
+            "valoracio": 7.5,
             "imatge": "18_2_1.jpg",
             "sinopsi": "Elliot keeps seeing his psychologist, Krista. The new character Susan Jacobs is having trouble with technology. Gideon pays a visit to Elliot complaining he's been targeted for a crime Elliot might have committed. Fsociety are back in action, asking E Corp for 5.9 million dollars in 24 hours."
         },
@@ -932,6 +1003,7 @@
             "numero": 2,
             "títol": "0_unm4sk-pt2.ct",
             "duració": 42,
+            "valoracio": 7,
             "imatge": "18_2_2.jpg",
             "sinopsi": "Five/nine has changed the world; Elliot is in seclusion; Angela finds happiness at Evil Corp.; fsociety delivers a malicious payload."
         },
@@ -941,6 +1013,7 @@
             "numero": 3,
             "títol": "1_k3rnel-pan1c.ksd",
             "duració": 63,
+            "valoracio": 7,
             "imatge": "18_2_3.jpg",
             "sinopsi": "Elliot vows to beat Mr. Robot; Angela gets a glimpse behind the curtain at E Corp; and fsociety stirs up trouble."
         },
@@ -950,6 +1023,7 @@
             "numero": 4,
             "títol": "2_init_1.asec",
             "duració": 65,
+            "valoracio": 6.5,
             "imatge": "18_2_4.jpg",
             "sinopsi": "Elliot vows to beat Mr. Robot; Angela gets a glimpse behind the curtain at E Corp; and fsociety stirs up trouble."
         },
@@ -959,6 +1033,7 @@
             "numero": 1,
             "títol": "The Bad Fish Paradigm",
             "duració": 21,
+            "valoracio": 8,
             "imatge": "7_2_1.jpg",
             "sinopsi": "Penny y Leonard regresan de su primera cita mientras que Howard y Rajesh los espían usando una cámara web en el pasillo. Penny le dice a Leonard que deberían ir despacio las cosas, mientras que los chicos tratan de convencer a Leonard que la cita no fue buena. Por otra parte, Penny le revela a Sheldon que le mintió a Leonard sobre que había terminado la universidad, ya que tiene miedo de que no sea lo suficientemente lista para él. Posteriormente, Penny le pide a Sheldon que guarde el secreto, pero se le hace tan difícil guardar el secreto que se ve obligado a mudarse del apartamento de Leonard. Después de permanecer brevemente con Raj, y luego Howard, un drogado Sheldon vuelve al apartamento de Leonard, donde admite que Penny no completó la universidad pública. Al día siguiente, en un intento de ayudarla, Leonard le ofrece a Penny unos folletos con respecto a una universidad local, pero accidentalmente menciona que está bien salir con una chica que no es inteligente. Penny rápidamente cierra la puerta en su rostro mientras que Leonard se da cuenta de su error."
         },
@@ -968,6 +1043,7 @@
             "numero": 2,
             "títol": "The Codpiece Topology",
             "duració": 21,
+            "valoracio": 8,
             "imatge": "7_2_2.jpg",
             "sinopsi": "Después de que los chicos regresaran de una feria renacentista, se encuentran a Penny con su nuevo novio, Eric (Travis Shculdt). Leonard decide entonces y de nuevo buscar una relación con su compañera, la física Leslie Winkle (Sara Gilbert). Pensando que ella necesita ralentizar las cosas, Leslie está de acuerdo con salir con Leonard, asumiendo varias veces el papel dominante antes de admitir que Leonard debe asumir el rol masculino. Con su nueva actitud, Leslie va demasiado lejos evaluando los defectos genéticos de Leonard, y hablando sobre procrear hijos con él.\r\nSheldon le explica a Penny que él se siente incómodo con Leonard saliendo con la que es su archienemiga, a la cual considera descuidada, una científica arrogante y mediocre. Después del consejo de Penny, Sheldon aprueba formalmente la relación entre Leonard y Leslie. Sin embargo, casi inmediatamente, Leslie y Sheldon comienzan a discutir sobre la gravedad cuántica de bucles, que Leslie apoya, y la teoría de cuerdas, que Sheldon apoya. Leslie espera que Leonard apoye sus creencias, pero cuando Leonard prefiere la teoría de cuerdas, Leslie decide cortar la relación."
         },
@@ -977,6 +1053,7 @@
             "numero": 3,
             "títol": "The Barbarian Sublimination",
             "duració": 21,
+            "valoracio": 6.5,
             "imatge": "7_2_3.jpg",
             "sinopsi": "Mientras Sheldon jugaba a Age of Conan: Hyborian Adventures, escucha a Penny quedándose fuera de su apartamento. Penny está frustrada por sus fracasos en su vida, entre ellos, el de su carrera de actriz y sus seis meses sin sexo. Como Penny es invitada por Sheldon a su apartamento a esperar a que el cerrajero abra la puerta, siente curiosidad sobre el juego que Sheldon está jugando, y rápidamente se vuelve adicta al juego.\r\nEn los días siguientes, las experiencias de adicción de videojuegos de Penny aumentan: llama a Sheldon en todo momento pidiendo ayuda y deja de ir a trabajar para jugar al juego sin parar. Después de hablar con Leslie Winkle, Sheldon se da cuenta que Penny necesita tener sexo para aliviar su estrés y recuperar su vida normal. Sheldon luego intenta juntar a Penny con un servicio de citas en línea, pero falla miserablemente. Al final, Penny supera su adicción cuando se da cuenta que aceptó tener una cita virtual con Howard. Horrorizada, deja de jugar al momento."
         },
@@ -986,6 +1063,7 @@
             "numero": 4,
             "títol": "The Griffin Equivalency",
             "duració": 21,
+            "valoracio": 7,
             "imatge": "7_2_4.jpg",
             "sinopsi": "Raj es incluido en la revista People en la lista «Treinta visionarios menores de 30 años para conocer» por su descubrimiento del objeto transneptuniano 2008 NQ17, lo que provoca celos en sus amigos. A pesar de los comentarios de Leonard que necesitaban ser de apoyo, a Raj la fama se le sube a la cabeza: recibe un tratamiento de estrella del Doctor Gablehauser (Mark Harelik), obtiene un asistente e invita a Penny a la recepción de la revista People.\r\nDespués de la fiesta, un intoxicado Raj regresa a casa con Penny, y en cámara web la presenta a sus padres como su novia, lo que hace que Penny se marche enfadada negando ser la novia de Raj, y con él sintiéndose enfermo por beber demasiado. A la mañana siguiente, un sobrio y tímido Raj trata de disculparse con Penny por su comportamiento. Aunque Raj trató de dejar una nota, Penny en última instancia obliga a Raj a decir un apenas audible «perdón», momento en que ella lo perdona.\r\nEl episodio concluye con una aparición de Charlie Sheen en el restaurante de Penny, y Raj le dice a un hombre que aparecerá en la revista People, pero Sheen, se da la vuelta y dice, «¿De verdad? Llámame cuando estés en la portada»."
         },
@@ -995,6 +1073,7 @@
             "numero": 5,
             "títol": "The Euclid Alternative",
             "duració": 19,
+            "valoracio": 9,
             "imatge": "7_2_5.jpg",
             "sinopsi": "Leonard está trabajando por las noches en un experimento, lo que resulta en su incapacidad de conducir a Sheldon a la Universidad. Como resultado, Sheldon debe encontrar otra forma de llegar al trabajo. Le pide ayuda a Penny, Howard y Raj, pero todos lo expulsan de sus respectivos vehículos por ser un pesado como copiloto. Los amigos finalmente le dicen a Sheldon que se consiga una licencia de conducir y aprenda a hacerlo.\r\nDespués de un accidentado viaje, el grupo crea una simulación por computadora para él en la sala de estar. La práctica muestra que Sheldon es un conductor horrible, pero en lugar de admitir la derrota, simplemente llega a la conclusión de que es demasiado evolucionado para conducir un automóvil. Al final, Sheldon decide vivir en su oficina en la universidad para así no tener que viajar. Sin embargo, Leonard revela que había terminado su experimento hace una semana y que era muy agradable vivir en el apartamento sin Sheldon."
         },
@@ -1004,6 +1083,7 @@
             "numero": 6,
             "títol": "The Cooper–Nowitzki Theorem",
             "duració": 20,
+            "valoracio": 9,
             "imatge": "7_2_6.jpg",
             "sinopsi": "Después de una conferencia de Leonard y Sheldon, una estudiante graduada llamada Ramona Nowitzki (Riki Lindhome) se obsesiona con Sheldon y se insinúa en su vida como su novia/asistente. Ramona ha demostrado ser una influencia útil en el trabajo de Sheldon, pero se cansa de ella cuando ésta le prohíbe las actividades recreativas y le obliga a concentrarse únicamente en su investigación.\r\nSheldon finalmente se da cuenta de que está en «algún tipo de relación» con Ramona, y busca ayuda de Penny y Leonard para deshacerse de ella, sin éxito. Las cosas llegan a una conclusión cuando Sheldon alcanza un gran avance en su investigación científica y Ramona sugiere compartir el crédito por su descubrimiento. Naturalmente, Sheldon se niega y posteriormente deja a Ramona. Al final, después de leer un documento de proyecto de un nuevo teorema, otra estudiante se centra en Sheldon de la misma manera que Ramona lo hizo la primera vez."
         },
@@ -1013,6 +1093,7 @@
             "numero": 7,
             "títol": "The Panty Piñata Polarization",
             "duració": 21,
+            "valoracio": 8,
             "imatge": "7_2_7.jpg",
             "sinopsi": "Cuando Penny deja de tener televisión por cable, comienza a ir al apartamento de los chicos para ver America's Next Top Model. Sin embargo, Sheldon se lo prohíbe imponiéndole una serie de infracciones menores en su apartamento, como tocar su comida, sentarse en su sitio y enviarle «correos electrónicos de humor». Después de una serie de bromas, incluyendo cortar el acceso de Penny al wifi y Penny demoliendo la «noche de lavandería» de Sheldon, Sheldon llega al extremo de colgar su ropa de un cable de teléfono fuera de su apartamento. Leonard decide entonces ayudar a Penny a terminar la guerra y le da el número de teléfono de la madre de Sheldon. Posteriormente, la madre de Sheldon le llama y le obliga a disculparse con Penny.\r\nMientras tanto, Howard y Raj tratan de encontrar la ubicación de la casa de America's Next Top Model en Los Ángeles. Usando toda clase de tecnología a su disposición, incluyendo un avión espía militar y satélites de la NASA, consiguen finalmente identificarla. Al final, llegan a la casa, haciéndose pasar por técnicos de televisión por cable para entrar. El episodio termina con apariciones de Analeigh Tipton y Samantha Potter de la temporada 11 de America's Next Top Model."
         },
@@ -1022,6 +1103,7 @@
             "numero": 8,
             "títol": "The Lizard–Spock Expansion",
             "duració": 20,
+            "valoracio": 8.5,
             "imatge": "7_2_8.jpg",
             "sinopsi": "Howard piensa que encontró a su alma gemela, la doctora Stephanie Barnett (Sara Rue), hasta que ésta conoce a Leonard. Howard invita entonces a Stephanie a conducir un vehículo en Marte en una instalación secreta, pero el plan falla cuando los vientos hacen que el vehículo quede atrapado en una zanja en Marte. Para ocultar la evidencia de lo que hizo, Howard destruye todas las cintas de seguridad y los discos duros en relación con la misión.\r\nPor otra parte, Leonard tiene dificultades en decidir cómo decirle a Howard que comenzó a salir con Stephanie. Leonard decide entonces ir a la casa de Howard para decírselo personalmente, pero mientras, Stephanie llama a Howard y le da las noticias. Howard se enoja con Leonard, pero esto sólo dura hasta que Stephanie junta a Howard con una amiga, y lo invita a una doble cita. Al final, Howard escucha en las noticias que el vehículo que quedó atrapado encontró agua en el fondo de la zanja en Marte, pero como los datos de la misión fueron destruidos nadie sabría quién fue el responsable del asombroso descubrimiento."
         },
@@ -1031,6 +1113,7 @@
             "numero": 9,
             "títol": "The White Asparagus Triangulation",
             "duració": 20,
+            "valoracio": 7.5,
             "imatge": "7_2_9.jpg",
             "sinopsi": "Sheldon considera a la doctora Stephanie Barnett (Sara Rue), la única novia tolerable que Leonard ha tenido. Como resultado, Sheldon trata de ayudar a Leonard en su relación con Stephanie, pensando que Leonard la arruinará. Sin embargo, Leonard no quiere la ayuda de Sheldon ya que empieza a volverse molesto al unirse a la pareja en una cena romántica y yendo con ellos al cine.\r\nDespués de creer que Leonard está perdiendo a Stephanie, Sheldon trata de demostrar la superioridad física de Leonard a Stephanie intentando abrir un frasco de espárragos blancos. Sin embargo, Leonard rompe el frasco por accidente y tiene que ir al hospital. Tras la visita al hospital, Leonard descubre que Sheldon hackeó su cuenta de Facebook y cambió el estado a «en una relación». Leonard se preocupa porque esto le hace parecer desesperado, pero luego descubre que Stephanie cambió su estado a «Stephanie Barnett tiene una relación con Leonard Hofstadter». Sheldon proclama al final su victoria."
         },
@@ -1040,6 +1123,7 @@
             "numero": 10,
             "títol": "The Vartabedian Conundrum",
             "duració": 21,
+            "valoracio": 8,
             "imatge": "7_2_10.jpg",
             "sinopsi": "Para todos los propósitos prácticos, Stephanie se muda al apartamento de Leonard y Sheldon, aunque Leonard no parece estar muy convencido. Mientras tanto, Stephanie hace un examen físico a Sheldon, ya que éste se queja de un zumbido en su oreja. Cuando Penny aparece ligera de ropa en el apartamento de los chicos, se dan cuenta que ni Leonard ni Sheldon jamás le hablaron a Stephanie sobre Penny. La mañana no va bien después de eso; Penny le demuestra a Leonard que Stephanie está viviendo con él, y Stephanie le compra a Leonard ropa nueva que él termina odiando.\r\nAl darse cuenta que su relación con Stephanie está yendo muy rápido para él, Leonard le trata de decir a Stephanie que se vaya, pero cada vez que lo intenta, ella lo desvía tratando de tener relaciones sexuales. Mientras tanto, Sheldon se cuela en el hospital para verse a sí mismo, ya que el zumbido no ha parado. Por el momento Leonard regresa al apartamento, Stephanie le ha diagnosticado a Sheldon una inflamación de laringe falsa, y le da instrucciones de no hablar en absoluto a fin de tranquilizar al resto."
         },
@@ -1049,6 +1133,7 @@
             "numero": 11,
             "títol": "The Bath Item Gift Hypothesis",
             "duració": 20,
+            "valoracio": 6.5,
             "imatge": "7_2_11.jpg",
             "sinopsi": "Leonard se reúne con el investigador David Underhill (Michael Trucco), un físico experimental como él. Aunque Leonard envidia a David por ser guapo, encantador, tener buena onda, y ser más exitoso que él, David le propone ayudarlo en su investigación. Sin embargo, la alegría de Leonard por trabajar con David se ve obstaculizada por los celos cuando él conoce a Penny y los dos comienzan a salir. Sin embargo, poco después, Penny rompe con David después de enterarse de que se había casado recientemente.\r\nSheldon se preocupa por la cercanía de las vacaciones de Navidad y no sabe qué regalarle a Penny. Después de decidir sobre una cesta de artículos de baño, él descubre que una amplia selección de ellos está disponible. No estando seguro de lo que le regalará Penny, compra una matriz completa para cubrir todas las contingencias. El regalo de Penny, finalmente, resulta ser una servilleta autografiada y usada por Leonard Nimoy, conteniendo su ADN (para que Sheldon pudiese clonar a su propio Señor Spock). Sheldon considera que el regalo es tan extravagante que le da todas las cestas... y un abrazo."
         },
@@ -1058,6 +1143,7 @@
             "numero": 12,
             "títol": "The Killer Robot Instability",
             "duració": 21,
+            "valoracio": 6.5,
             "imatge": "7_2_12.jpg",
             "sinopsi": "Howard hace enojar a Penny y los duros comentarios de ésta sobre su vida amorosa le envían a la depresión, lo que hace que sus amigos pierdan a su compañero de equipo en una competencia de robots. Posteriormente, cuando Sheldon acepta una lucha poniendo a su robot M.O.N.T.E. (Mobile Omnidirectional Neutralization and Termination Erradicator), contra «The Kripke Krippler» de su compañero de trabajo, Barry Kripke (John Ross Bowie), Leonard trata de recuperar a Howard a su equipo pidiendo a Penny que se disculpe con él.\r\nPenny va a la casa de Howard a disculparse y termina escuchando su historia completa de citas. Después de las palabras de consuelo de Penny, Howard trata de besarla, lo que hace que ella se enfade de nuevo y termine dándole un puñetazo en la cara. Mientras tanto, M.O.N.T.E. es destruido sin remedio. Al final, salvo por la nariz rota, Howard vuelve a la normalidad."
         },
@@ -1067,6 +1153,7 @@
             "numero": 13,
             "títol": "The Friendship Algorithm",
             "duració": 21,
+            "valoracio": 7,
             "imatge": "7_2_13.jpg",
             "sinopsi": "Sheldon escucha que Barry Kripke (John Ross Bowie) tiene el control de un ordenador en el laboratorio, así que planea ser su amigo para tener acceso a la computadora. Socialmente inepto, Sheldon tiene problemas para entender cómo hacer un nuevo amigo y sus amigos actuales no son de mucha ayuda al respecto.\r\nDespués de un viaje a la librería, Sheldon usa un libro infantil para ayudarse a diseñar un diagrama de flujo para conseguir nuevos amigos. Este procedimiento «científico» funciona y Sheldon consigue ir de escalada con Kripke. Después, regresan al apartamento, donde Sheldon decide sacar a Raj para tratar de hacer espacio a Kripke. Sin embargo, cuando Kripke revela que no tiene el control de la computadora, Sheldon lo expulsa y admite de nuevo a Raj."
         },
@@ -1076,6 +1163,7 @@
             "numero": 14,
             "títol": "The Financial Permeability",
             "duració": 21,
+            "valoracio": 6.5,
             "imatge": "7_2_14.jpg",
             "sinopsi": "Penny está pasando por dificultades financieras, lo que le resulta en la búsqueda de un nuevo lugar donde vivir. Sheldon, después de discutir sus dificultades, le presta dinero suficiente para cubrir sus necesidades. Esto conduce a la revocación de un papel divertido en el que Sheldon no está particularmente obsesivo acerca de cómo obtener de vuelta el dinero y Penny comienza a mostrar un comportamiento neurótico, reaccionando irritablemente a todo lo que alude a sus problemas monetarios.\r\nDespués de que Leonard se entere de los problemas de Penny, trata de ayudarla a cortar gastos, y en el proceso descubre que su ex-novio Kurt (Brian Wade) le debe una gran suma de dinero. Sin decirle nada a Penny, Leonard y los chicos van a casa de Kurt para tener el dinero, sin éxito. Más tarde, Penny le devuelve el dinero a Sheldon, revelando que Kurt actualmente le había devuelto el dinero. Sin embargo, para gran decepción de Leonard, Kurt no le dijo nada a Penny sobre la visita de Leonard, y en su lugar tomó la oportunidad de regresar con ella."
         },
@@ -1085,6 +1173,7 @@
             "numero": 15,
             "títol": "The Maternal Capacitance",
             "duració": 20,
+            "valoracio": 8,
             "imatge": "7_2_15.jpg",
             "sinopsi": "Leonard se preocupa cuando descubre que su madre, la psiquiatra y neurocientífica Beverly Hofstadter (Christine Baranski) viene de visita. Al llegar al edificio, Beverly conoce a Penny y en el momento en que llegan al apartamento de Leonard, Penny se encuentra llorando después de que sus problemas psicosociales de su infancia fuesen analizados por Beverly. Sheldon, por otra parte, desarrolla una relación cómoda con la madre de Leonard, que resulta ser tan estricta y lógica como Sheldon.\r\nHoward y Raj también conocen a Beverly, pero después de enterarse de que Howard todavía vive con su madre y que Raj no puede hablarle a las mujeres, declara que están viviendo «una relación homosexual». Más tarde, Leonard va a hablar con Penny y ambos buscan consuelo entre sí, discutiendo sus infancias con sus padres. Mientras se van emborrachando, Penny y Leonard están a punto de tener sexo, pero Leonard arruina el momento usando su psicología y teniendo en cuenta que él está teniendo sexo con su madre y ella con su padre. Disgustada y en shock, Penny echa a Leonard de su apartamento."
         },
@@ -1094,6 +1183,7 @@
             "numero": 16,
             "títol": "The Cushion Saturation",
             "duració": 21,
+            "valoracio": 9,
             "imatge": "7_2_16.jpg",
             "sinopsi": "Un juego de paintball lleva a un romance entre Howard y la exnovia de Leonard, Leslie Winkle (Sara Gilbert). En el apartamento, Penny accidentalmente dispara la pistola de paintball en el cojín de Sheldon en el sofá y ella y Leonard tienen dificultades para tratar de limpiarlo. Naturalmente, Sheldon enloquece cuando lo descubre.\r\nMientras tanto, Leslie y Howard comienzan a dormir juntos y ella es capaz de asegurar fondos para su trabajo, e incluso invita a Howard a un viaje para un gran proyecto. Sin embargo, esto resulta ser sólo una manera de Leslie de controlar a Howard. Aunque inicialmente era reacio en participar en este tipo de relación, Howard más tarde acepta encantado su papel de «juguete sexual». Al final, Sheldon todavía no está satisfecho con el paso del cojín por la tintorería, y como venganza, dispara a Penny, que estaba en su equipo en el juego de paintball."
         },
@@ -1103,6 +1193,7 @@
             "numero": 17,
             "títol": "The Terminator Decoupling",
             "duració": 21,
+            "valoracio": 6,
             "imatge": "7_2_17.jpg",
             "sinopsi": "Los chicos hacen un viaje en tren a San Francisco (California) para asistir a una conferencia donde el invitado es el físico George Smoot, ganador del Premio Nobel de Física de 2006. Sin embargo, el viaje se hace más emocionante cuando los chicos se dan cuenta que la actriz Summer Glau, de la serie de televisión Terminator: Las crónicas de Sarah Connor está a bordo.\r\nDejando atrás su timidez mientras bebe cerveza, Raj es el primero en hablar con Summer. Sin embargo, cuando la cerveza resulta ser sin alcohol, Raj vuelve a su habitual timidez y se retira avergonzado. Howard luego se acerca, pero asusta a Summer con sus sueños salvajes. Leonard eventualmente tiene su oportunidad, pero Summer se baja del tren antes de que se pueda presentar. Mientras tanto, Sheldon se da cuenta que olvidó su unidad flash de USB con un documento que quiere mostrarle a Smoot, y necesita a Penny para encontrarlo en su habitación y enviárselo por email a él. Al final, el Smoot no está impresionado con la propuesta de Sheldon de la investigación, preguntándole «Con todo respeto, Dr. Cooper, ¿está drogado?»"
         },
@@ -1112,6 +1203,7 @@
             "numero": 18,
             "títol": "The Work Song Nanocluster",
             "duració": 20,
+            "valoracio": 7,
             "imatge": "7_2_18.jpg",
             "sinopsi": "Penny desarrolla un broche para cabello, llamado «Penny Blossom» (Penny-flor o Flor de Penny), el cual espera que sea un negocio rentable en casa. Sheldon pronto señala los fallos en su proceso de producción y le ayuda a desarrollar una línea de montaje. Leonard, Howard y Raj también ayudan con sus ideas para la eficiencia, producción y comercialización.\r\nLeonard diseña un sitio web de ventas y de inmediato reciben un pedido de mil flores de una alianza LGTBI de Nueva Jersey. A pesar de su felicidad inicial, se dan cuenta de que Leonard incluye una opción de enviar el pedido en un día en la página web, así que el quinteto tiene que trabajar toda la noche para cumplir la orden. Sin embargo, a la mañana siguiente, descubren que el mismo grupo que pidió las mil flores realizó un nuevo pedido de igual cantidad, lo que lleva a todos al agotamiento."
         },
@@ -1121,6 +1213,7 @@
             "numero": 19,
             "títol": "The Dead Hooker Juxtaposition",
             "duració": 20,
+            "valoracio": 8.5,
             "imatge": "7_2_19.jpg",
             "sinopsi": "Los antiguos inquilinos del apartamento superior del de Sheldon y Leonard se mudan y es ocupado por una rubia atractiva llamada Alicia (Valeria Azlynn). Alicia, al igual que Penny, es una aspirante a actriz, pero es más exitosa, obteniendo un papel en la serie de televisión CSI. Naturalmente, los chicos se quedan fascinados con Alicia y ella toma ventaja de esto haciendo que trabajen para ella.\r\nPenny se pone celosa pensando que Alicia la está suplantando en la atención de los chicos. Posteriormente, Penny trata de ganar a sus amigos de vuelta comprándoles comida china, ofreciéndose a ver Battlestar Galactica, e incluso memorizando una broma de física cuántica. Alicia señala que Penny usa la misma rutina con los chicos que ella, lo que hace que Penny se enfurezca y las dos se peleen en el vestíbulo, acabando Penny con un ojo morado y Howard excitado. Al final, Penny recupera a los chicos, mientras que se escucha a Alicia teniendo sexo con uno de los productores de CSI."
         },
@@ -1130,6 +1223,7 @@
             "numero": 20,
             "títol": "The Hofstadter Isotope",
             "duració": 20,
+            "valoracio": 5.5,
             "imatge": "7_2_20.jpg",
             "sinopsi": "Penny necesita un regalo para el cumpleaños de su sobrino, así que acompaña a los chicos a la tienda de cómics. Allí, Penny conoce al propietario, Stuart (Kevin Sussman), quien se las arregla para preguntarle si quiere salir con él. Sintiéndose celoso por la situación, Leonard pide a Raj y Howard que le lleven a un bar con mujeres.\r\nLa cita de Stuart con Penny va bien, pero son interrumpidos por Sheldon que comienza una discusión sobre quién debería ser el sucesor de Batman y si Bruce Wayne es asesinado (Sheldon defiende a Dick Grayson mientras que Stuart a Jason Todd). Sheldon gana la discusión cuando Stuart comenta que está cansado y necesita irse y descubre que Penny se ha dormido del aburrimiento. Mientras tanto, en el bar, Raj es el único que tiene éxito en estar con una chica."
         },
@@ -1139,6 +1233,7 @@
             "numero": 21,
             "títol": "The Vegas Renormalization",
             "duració": 21,
+            "valoracio": 7,
             "imatge": "7_2_21.jpg",
             "sinopsi": "Leslie Winkle (Sarah Gilbert) termina su relación de «amigos con beneficios» con Howard, lo que le deprime. Leonard y Raj deciden entonces llevarlo a un viaje a Las Vegas para animarlo. Mientras tanto, Sheldon, quien se ha negado a ir al viaje, está listo para pasar el fin de semana solo.\r\nEn Las Vegas, una prostituta llamada Mikaela (Jodi Lyn O'Keefe) se acerca a Raj y él y Leonard deciden contratarla para levantarle el ánimo a Howard. Howard pronto descubre que es una prostituta, pero no obstante le da las gracias a Leonard y Raj. Mientras tanto, Sheldon, después de haber olvidado las llaves de su apartamento, es obligado a pasar la noche en el apartamento de Penny. Al final, Sheldon cree que tiene una mejor comprensión del término «amigos con beneficios»."
         },
@@ -1148,6 +1243,7 @@
             "numero": 22,
             "títol": "The Classified Materials Turbulence",
             "duració": 18,
+            "valoracio": 6,
             "imatge": "7_2_22.jpg",
             "sinopsi": "Howard celebra, comprando cómics a todos sus amigos, el lanzamiento de su última invención: un sistema de eliminación de residuos humanos en gravedad cero (un baño espacial) para la Estación Espacial Internacional. Mientras, en la tienda de cómics, Stuart (Kevin Sussman) le dice a Leonard que va a tener una segunda cita con Penny y le pide consejo. Leonard deliberadamente evita la pregunta de Stuart y le da malos consejos.\r\nAl día siguiente, Leonard se siente culpable y se dirige a disculparse con Stuart. Stuart revela que la cita le fue bien, hasta que él y Penny comenzaron a besarse y ella accidentalmente le llamó Leonard. Mientras tanto, Howard descubre que cometió un error que causará que el inodoro falle y los chicos se reúnen para tratar de arreglarlo. Al final, los astronautas de la Estación Espacial Internacional van a un paseo espacial imprevisto, dando a entender que probaron el invento y que, tal y como se esperaba, fracasó."
         },
@@ -1157,6 +1253,7 @@
             "numero": 23,
             "títol": "The Monopolar Expedition",
             "duració": 21,
+            "valoracio": 7.5,
             "imatge": "7_2_23.jpg",
             "sinopsi": "Sheldon gana una beca de la Fundación Nacional de Ciencias para ir a una expedición de tres meses en el Polo Norte para detectar monopolos magnéticos y demostrar la validez de su teoría de cuerdas. Después de algunas vacilaciones, decide ir y quiere que Leonard, Howard y Raj le acompañen. Aunque en un principio son reacios al tener que pasar tres meses encerrados en una cabina con Sheldon, aceptan.\r\nPara prepararse para el frío, Sheldon le pide a Penny que le deje entrar en la nevera de la fábrica de pasteles. Cuando Penny descubre que Leonard también va, parece estar molesta. Más tarde, ella le da un snuggie como regalo, le dice que le extrañará y le da un abrazo largo. En la mañana de la ida de los chicos, Leonard le pregunta a Penny sobre el abrazo largo, pero ella no revela sus sentimientos por él. Después de que ellos se van, Penny admite: Significa que me gustaría que no vayas..."
         },
@@ -1166,6 +1263,7 @@
             "numero": 1,
             "títol": "Una Rick-grieta en el tiempo",
             "duració": 23,
+            "valoracio": 5.5,
             "imatge": "0_2_1.jpg",
             "sinopsi": "Rick, Morty y Summer han pasado meses viviendo congelados. Cuando Rick decide descongelar el tiempo, aparece una dimensión paralela."
         },
@@ -1175,6 +1273,7 @@
             "numero": 2,
             "títol": "Huida a Mortynoche",
             "duració": 23,
+            "valoracio": 8.5,
             "imatge": "0_2_2.jpg",
             "sinopsi": "Morty intenta detener a un alienígena asesino al que Rick le ha vendido un arma para pasar la tarde en un salón de videojuegos."
         },
@@ -1184,6 +1283,7 @@
             "numero": 3,
             "títol": "Asimilación autoerótica",
             "duració": 23,
+            "valoracio": 6.5,
             "imatge": "0_2_3.jpg",
             "sinopsi": "Rick, Morty y Summer se topan con Unidad, una mente colmena con la que Rick tuvo una relación. Summer está en contra de que Unidad someta a un planeta alienígena."
         },
@@ -1193,6 +1293,7 @@
             "numero": 4,
             "títol": "Total Rick-tal",
             "duració": 22,
+            "valoracio": 6,
             "imatge": "0_2_4.jpg",
             "sinopsi": "La familia lucha contra un parásito que implanta recuerdos falsos en sus mentes. Incluso llegan a plantearse si su amigo el señor Ojetesucio es real."
         },
@@ -1202,6 +1303,7 @@
             "numero": 5,
             "títol": "Estamos cerdis",
             "duració": 23,
+            "valoracio": 7,
             "imatge": "0_2_5.jpg",
             "sinopsi": "Rick y Morty acuden a Ice-T para que los ayude a componer una canción, pues quieren presentarse a un concurso musical intergaláctico."
         },
@@ -1211,6 +1313,7 @@
             "numero": 6,
             "títol": "Los Rick deben de estar locos",
             "duració": 23,
+            "valoracio": 8,
             "imatge": "0_2_6.jpg",
             "sinopsi": "A Rick se le avería el coche y se mete con Morty en la batería, donde ha creado todo un universo en miniatura."
         },
@@ -1220,6 +1323,7 @@
             "numero": 7,
             "títol": "Golpe en el pequeño Sánchez",
             "duració": 23,
+            "valoracio": 7,
             "imatge": "0_2_7.jpg",
             "sinopsi": "Summer le pide a Rick que se convierta en adolescente para protegerla de los vampiros del instituto. Beth y Jerry van a terapia de pareja en otro planeta."
         },
@@ -1229,6 +1333,7 @@
             "numero": 8,
             "títol": "Cable interdimensional 2: tentando al destino",
             "duració": 23,
+            "valoracio": 9.5,
             "imatge": "0_2_8.jpg",
             "sinopsi": "Jerry se come un helado que Rick usaba para desarrollar una peligrosa bacteria y lo llevan a un hospital alienígena. Rick manipula la televisión del centro."
         },
@@ -1238,6 +1343,7 @@
             "numero": 9,
             "títol": "Mira quién purga también",
             "duració": 22,
+            "valoracio": 8.5,
             "imatge": "0_2_9.jpg",
             "sinopsi": "Rick y Morty llegan a un planeta donde los ciudadanos pueden delinquir impunemente, incluso cometer asesinatos, durante toda una noche."
         },
@@ -1247,6 +1353,7 @@
             "numero": 10,
             "títol": "De squanch en squanch",
             "duració": 23,
+            "valoracio": 8.5,
             "imatge": "0_2_10.jpg",
             "sinopsi": "Jerry aparece en el planeta donde se celebra la boda de Persona Pájaro y Tammy. Ahora, toda la familia tendrá que asistir a la desafortunada ceremonia."
         }
